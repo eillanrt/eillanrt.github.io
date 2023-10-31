@@ -663,7 +663,7 @@
     <script src="https://cdn.jsdelivr.net/npm/particlesjs@2.2.3/dist/particles.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt@main/js/fragment-scroll.js"></script>
     <script>
-      window.onload = function () {
+      window.addEventListener('DOMContentLoaded', () => {
         Particles.init({
           selector: '.particles-background',
           color: '#ffffff',
@@ -681,7 +681,7 @@
             }
           })
         })
-      }
+      })
     </script>
   </body>
 </html>
