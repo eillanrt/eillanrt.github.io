@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', () => {
   // Particles
   Particles.init({
     selector: '.particles-background',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const sectionIds = []
 
-  sections.forEach(function (section) {
+  sections.forEach((section) => {
     sectionIds.push(section.id)
   })
 
