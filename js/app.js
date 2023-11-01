@@ -1,4 +1,24 @@
 document.addEventListener('DOMContentLoaded', function () {
+  // Particles
+  Particles.init({
+    selector: '.particles-background',
+    color: '#ffffff',
+    maxParticles: 90,
+    sizeVariations: 2,
+    minDistance: 100,
+    speed: 0.1,
+    responsive: [],
+  })
+
+  document.querySelectorAll('.title a').forEach((a) => {
+    a.addEventListener('click', (e) => {
+      if (!a.classList.contains('visited')) {
+        a.classList.add('visited')
+      }
+    })
+  })
+
+  // Update URL hash on scroll
   const sections = document.querySelectorAll('section')
 
   const sectionIds = []

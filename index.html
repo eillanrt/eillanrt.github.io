@@ -661,27 +661,6 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/particlesjs@2.2.3/dist/particles.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt@main/js/fragment-scroll.js"></script>
-    <script>
-      window.addEventListener('DOMContentLoaded', () => {
-        Particles.init({
-          selector: '.particles-background',
-          color: '#ffffff',
-          maxParticles: 90,
-          sizeVariations: 2,
-          minDistance: 100,
-          speed: 0.1,
-          responsive: [],
-        })
-
-        document.querySelectorAll('.title a').forEach((a) => {
-          a.addEventListener('click', (e) => {
-            if (!a.classList.contains('visited')) {
-              a.classList.add('visited')
-            }
-          })
-        })
-      })
-    </script>
+    <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt@main/js/app.js"></script>
   </body>
 </html>
