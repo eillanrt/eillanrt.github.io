@@ -187,15 +187,131 @@ svg {
   font-size: 1.1rem;
   color: #ccc;
 }
+
 .education-time {
-  font-size: 14px; /* Adjust the font size for the education time */
-  color: #888; /* Lighter color for the education time */
-  margin-top: 10px; /* Add some spacing between program and time */
+  font-size: 14px;
+  color: #888;
+  margin-top: 10px;
+}
+
+.contact-header {
+  margin: 1rem 0;
+}
+
+.contact-header h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.contact-header h2 {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 1rem;
+  width: 60%;
+  margin: auto;
+}
+
+.asterisk-required {
+  color: red;
+}
+
+.contact-form-wrapper {
+  width: 500px;
+  margin: 0 auto;
+  padding: 0.7rem 1rem;
+  border: 1px solid #ccc;
+  background-color: #211f1f;
+}
+
+.pageclip-form {
+  margin: 0;
+}
+
+.pageclip-form > div {
+  margin: 1rem auto;
+}
+
+.contact-form-wrapper label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.pageclip-form input,
+.pageclip-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  resize: none;
+}
+
+.pageclip-form .submit-form-div {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.pageclip-form button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.contact-form-wrapper button:hover {
+  background-color: #333;
+}
+
+textarea:focus,
+input:focus {
+  border: 2px solid #0078d4;
+  box-shadow: 0 0 5px rgba(0, 120, 212, 0.5);
+}
+
+textarea:focus,
+input:active {
+  border: 2px solid #ff5722;
+  box-shadow: 0 0 5px rgba(255, 87, 34, 0.5);
+}
+
+textarea:focus,
+input:hover {
+  border: 2px solid #333;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  outline: none;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.pageclip-form__success {
+  color: black;
+}
+
+.pageclip-form__success h1 {
+  font-size: 2rem;
+}
+
+.pageclip-form__success h2 {
+  font-size: 1.2rem;
+  margin-top: 1rem;
 }
 
 @media (max-width: 768px) {
   .education-container {
-    grid-template-columns: 1fr; /* Single column layout on small screens */
+    grid-template-columns: 1fr;
   }
 }
 
@@ -267,6 +383,10 @@ footer.footer-main li {
 }
 
 @media only screen and (max-width: 520px) {
+  .contact-form-wrapper {
+    width: 95%;
+  }
+
   footer.footer-main {
     height: auto;
   }

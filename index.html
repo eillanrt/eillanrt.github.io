@@ -64,10 +64,16 @@
     />
 
     <title>Allan Robert Tan - Developer, BSCpE</title>
-    <link
+    <!-- <link
       rel="stylesheet"
       type="text/css"
       href="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt.github.io@main/styles/styles.css"
+    />-->
+    <link rel="stylesheet" href="styles/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://s.pageclip.co/v1/pageclip.css"
+      media="screen"
     />
     <link
       rel="stylesheet"
@@ -622,6 +628,67 @@
       </div>
     </section>
 
+    <section id="contact">
+      <header class="contact-header">
+        <h1>Direct Message</h1>
+        <h2>
+          Here is where you can quickly and directly message me. Any messages
+          are appreciated, but please be polite and refrain from spam.
+        </h2>
+      </header>
+      <div class="contact-form-wrapper">
+        <form
+          action="https://send.pageclip.co/fuEWDIfBI2Goo2e1k2irioqVwWeoQoWe/contact-form"
+          class="pageclip-form"
+          method="POST"
+        >
+          <div>
+            <label for="email"
+              >Email Address <span class="asterisk-required">*</span></label
+            >
+            <input
+              id="email"
+              name="email"
+              type="email"
+              placeholder="email@example.com"
+              required
+            />
+          </div>
+          <div>
+            <label for="subject"
+              >Subject <span class="asterisk-required">*</span></label
+            >
+            <input
+              name="subject"
+              id="subject"
+              type="text"
+              placeholder="Subject"
+              required
+            />
+          </div>
+          <div>
+            <label for="name">Name</label>
+            <input
+              name="name"
+              id="name"
+              type="text"
+              placeholder="Juan Dela Cruz"
+            />
+          </div>
+          <div>
+            <label for="body"
+              >Message <span class="asterisk-required">*</span></label
+            >
+            <textarea name="body" id="body" cols="30" rows="15"></textarea>
+          </div>
+          <div class="submit-form-div">
+            <button type="submit" class="pageclip-form__submit">
+              <span>Send</span>
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
     <footer class="footer-main">
       <ul class="social-links">
         <li>
@@ -661,6 +728,57 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/particlesjs@2.2.3/dist/particles.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt.github.io@main/js/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt.github.io/js/app.js"></script>
+    <script>
+      window.addEventListener('load', () => {
+        function validateContactForm() {
+          const email = document.getElementById('email').value
+          const subject = document.getElementById('subject').value
+          const body = document.getElementById('body').value
+
+          if (email === '') {
+            alert('Please enter your email address.')
+            return false
+          }
+
+          const emailRegex =
+            /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/
+          if (!emailRegex.test(email)) {
+            alert('Please enter a valid email address.')
+            return false
+          }
+
+          if (subject === '') {
+            alert('Please enter a subject.')
+            return false
+          }
+
+          if (body === '') {
+            alert('Please enter a message.')
+            return false
+          }
+
+          return true
+        }
+
+        const submitButton = document.querySelector('button[type="submit"]')
+
+        submitButton.addEventListener('click', (event) => {
+          if (!validateContactForm()) {
+            event.preventDefault()
+          }
+        })
+      })
+    </script>
+    <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
+    <script>
+      const form = document.querySelector('.pageclip-form')
+      Pageclip.form(form, {
+        onSubmit: function (event) {},
+        onResponse: function (error, response) {},
+        successTemplate:
+          '<h1>Message successfully sent!</h1>\n<h2>I will be in touch shortly.</h2.',
+      })
+    </script>
   </body>
 </html>
