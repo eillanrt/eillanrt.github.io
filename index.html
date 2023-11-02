@@ -64,12 +64,11 @@
     />
 
     <title>Allan Robert Tan - Developer, BSCpE</title>
-    <!-- <link
+    <link
       rel="stylesheet"
       type="text/css"
       href="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt.github.io@main/styles/styles.css"
-    />-->
-    <link rel="stylesheet" href="styles/styles.css" />
+    />
     <link
       rel="stylesheet"
       href="https://s.pageclip.co/v1/pageclip.css"
@@ -629,7 +628,7 @@
     </section>
 
     <section id="contact">
-      <header class="contact-header">
+      <header class="section-header">
         <h1>Direct Message</h1>
         <h2>
           Here is where you can quickly and directly message me. Any messages
@@ -729,56 +728,27 @@
 
     <script src="https://cdn.jsdelivr.net/npm/particlesjs@2.2.3/dist/particles.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt.github.io/js/app.js"></script>
-    <script>
-      window.addEventListener('load', () => {
-        function validateContactForm() {
-          const email = document.getElementById('email').value
-          const subject = document.getElementById('subject').value
-          const body = document.getElementById('body').value
-
-          if (email === '') {
-            alert('Please enter your email address.')
-            return false
-          }
-
-          const emailRegex =
-            /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/
-          if (!emailRegex.test(email)) {
-            alert('Please enter a valid email address.')
-            return false
-          }
-
-          if (subject === '') {
-            alert('Please enter a subject.')
-            return false
-          }
-
-          if (body === '') {
-            alert('Please enter a message.')
-            return false
-          }
-
-          return true
-        }
-
-        const submitButton = document.querySelector('button[type="submit"]')
-
-        submitButton.addEventListener('click', (event) => {
-          if (!validateContactForm()) {
-            event.preventDefault()
-          }
-        })
-      })
-    </script>
+    <script src="https://cdn.jsdelivr.net/gh/eillanrt/eillanrt.github.io@main/js/validate-form.js"></script>
     <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
     <script>
-      const form = document.querySelector('.pageclip-form')
-      Pageclip.form(form, {
-        onSubmit: function (event) {},
-        onResponse: function (error, response) {},
-        successTemplate:
-          '<h1>Message successfully sent!</h1>\n<h2>I will be in touch shortly.</h2.',
-      })
+      ;(function () {
+        const form = document.querySelector('.pageclip-form')
+        Pageclip.form(form, {
+          onSubmit: function (event) {
+            console.log('Submitting form')
+          },
+          onResponse: function (error, response) {
+            if (error) {
+              console.error(error)
+            }
+            console.log(response)
+          },
+          successTemplate: `<h1>Message successfully sent!</h1>
+<h2>I will be in touch shortly.</h2>
+<br><br>
+<p>Tap to close</p>`,
+        })
+      })()
     </script>
   </body>
 </html>
