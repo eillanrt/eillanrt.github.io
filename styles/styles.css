@@ -442,10 +442,7 @@ footer.footer-main li {
     height: 220px;
     padding: 12px 0;
   }
-  .about {
-    width: 100%;
-  }
-  #welcome .card ul {
+  .roles, .about {
     width: 100%;
   }
 }
