@@ -1092,8 +1092,10 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/particlesjs@2.2.3/dist/particles.min.js"></script>
-    <script src="/js/validate-form.js"></script>
+    <!--<script src="/js/validate-form.js"></script>
+    <script src="/js/fetch-last-update.js"></script>-->
     <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
+    <script src="dist/bundle.js"></script>
     <script>
       window.addEventListener('DOMContentLoaded', () => {
         // Particles
@@ -1114,83 +1116,7 @@
             }
           })
         })
-
-        // Update URL hash on scroll
-        const sections = document.querySelectorAll('section')
-
-        const sectionIds = []
-
-        sections.forEach((section) => {
-          sectionIds.push(section.id)
-        })
-
-        function updateURLFragment() {
-          const scrollPosition = window.scrollY
-
-          for (let i = 0; i < sections.length; i++) {
-            const section = sections[i]
-            const sectionTop = section.offsetTop
-            const sectionBottom = sectionTop + section.clientHeight
-
-            if (
-              scrollPosition >= sectionTop &&
-              scrollPosition < sectionBottom
-            ) {
-              // Set the URL fragment to the ID of the current section
-              history.replaceState(null, null, `#${sectionIds[i]}`)
-              break
-            }
-          }
-        }
-
-        window.addEventListener('scroll', updateURLFragment)
       })
-    </script>
-    <script>
-      ;(async function () {
-        const form = document.querySelector('.pageclip-form')
-        Pageclip.form(form, {
-          onSubmit: function (event) {
-            console.log('Submitting form')
-          },
-          onResponse: function (error, response) {
-            if (error) {
-              console.error(error)
-            }
-            console.log(response)
-          },
-          successTemplate: `<h1>Message successfully sent!</h1>
-<h2>I will be in touch shortly.</h2>
-<br><br>
-<p>Tap to close</p>`,
-        })
-
-        const res = await fetch(
-          'https://api.github.com/repos/eillanrt/eillanrt.github.io/commits'
-        )
-
-        const data = await res.json()
-        const latestCommit = data[0]
-
-        const latestCommitTimestamp = latestCommit.commit.committer.date
-
-        const formattedDate = new Date(latestCommitTimestamp).toLocaleString(
-          'en-US',
-          {
-            month: 'long',
-            day: 'numeric',
-            year: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit',
-            timeZoneName: 'short',
-          }
-        )
-        const lastUpdatedLink = document.querySelector('.last-commit-timestamp')
-        lastUpdatedLink.innerText = 'Last updated at: ' + formattedDate
-        lastUpdatedLink.href =
-          'https://github.com/eillanrt/eillanrt.github.io/commit/' +
-          latestCommit.sha
-      })()
     </script>
   </body>
 </html>

@@ -1,4 +1,4 @@
-window.addEventListener('load', () => {
+export default window.addEventListener('load', () => {
   function validateContactForm() {
     const email = document.getElementById('email').value
     const subject = document.getElementById('subject').value
