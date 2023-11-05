@@ -313,6 +313,17 @@ label {
   font-weight: bold;
 }
 
+.last-commit-timestamp-wrap {
+  text-align: center;
+  margin: 12px auto;
+}
+
+.last-commit-timestamp {
+  font-size: 0.9rem;
+  color: #ffffff;
+  text-align: center;
+}
+
 /* FOOTER */
 
 footer.footer-main {
