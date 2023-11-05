@@ -343,6 +343,10 @@ footer.footer-main li {
   text-decoration: none;
 }
 
+.social-link:hover {
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+}
+
 /* MEDIA QUERIES ARRANGED BASED ON THE DESCENDING */
 
 @media only screen and (min-width: 1391px) {
@@ -442,7 +446,8 @@ footer.footer-main li {
     height: 220px;
     padding: 12px 0;
   }
-  .roles, .about {
+  .roles,
+  .about {
     width: 100%;
   }
 }
