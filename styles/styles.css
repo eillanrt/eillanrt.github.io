@@ -324,6 +324,17 @@ label {
   text-align: center;
 }
 
+.contact-form-privacy {
+  color: #ffffff;
+  text-align: center;
+  margin: 30px auto 12px;
+  width: 530px;
+}
+
+.contact-form-privacy p {
+  font-size: 0.9rem;
+}
+
 /* FOOTER */
 
 footer.footer-main {
@@ -429,6 +440,9 @@ footer.footer-main li {
 }
 
 @media only screen and (max-width: 540px) {
+  .contact-form-privacy {
+    width: 90%;
+  }
   .roles li {
     padding-right: 1rem;
   }
