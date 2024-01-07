@@ -128,6 +128,7 @@ svg {
   border: 1px solid #ddd;
   padding: 10px;
   text-align: center;
+  background-color: #222;
 }
 
 .portfolio-svg {
