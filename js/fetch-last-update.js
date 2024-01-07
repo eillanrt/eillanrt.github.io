@@ -23,6 +23,7 @@ async function fetchLastUpdate() {
   const lastUpdatedLink = document.querySelector('.last-commit-timestamp')
 
   lastUpdatedLink.innerText = 'Last updated at: ' + formattedDate
+  lastUpdatedLink.target = '_blank'
   lastUpdatedLink.href =
     'https://github.com/eillanrt/eillanrt.github.io/commit/' + latestCommit.sha
 }
