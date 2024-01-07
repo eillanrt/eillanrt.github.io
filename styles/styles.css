@@ -244,7 +244,7 @@ svg {
 }
 
 .pageclip-form button {
-  background-color: #000;
+  background-color: #00917c;
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -253,7 +253,7 @@ svg {
 }
 
 .contact-form-wrapper button:hover {
-  background-color: #333;
+  background-color: #184d47;
 }
 
 textarea:focus,
