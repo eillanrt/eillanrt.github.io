@@ -2,6 +2,7 @@ export default window.addEventListener('load', () => {
   function validateContactForm() {
     const email = document.getElementById('email').value
     const subject = document.getElementById('subject').value
+    const name = document.getElementById('name').value
     const body = document.getElementById('body').value
 
     if (email === '') {
@@ -18,6 +19,11 @@ export default window.addEventListener('load', () => {
 
     if (subject === '') {
       alert('Please enter a subject.')
+      return false
+    }
+
+    if (name === '') {
+      alert('Please enter your name.')
       return false
     }
 
