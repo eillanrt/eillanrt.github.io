@@ -440,10 +440,13 @@ footer.footer-main li {
   }
 }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 570px) {
   .contact-form-privacy {
     width: 90%;
   }
+}
+
+@media only screen and (max-width: 540px) {
   .roles li {
     padding-right: 1rem;
   }
