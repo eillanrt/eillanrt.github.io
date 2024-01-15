@@ -38,7 +38,13 @@ export default window.addEventListener('load', () => {
   const submitButton = document.querySelector('button[type="submit"]')
 
   submitButton.addEventListener('click', (event) => {
-    if (!validateContactForm()) {
+    const confirmSubmit = window.confirm(
+      'Please make sure all fields are filled out correctly. Are you sure you want to submit?'
+    )
+
+    const proceedSubmission = confirmSubmit && validateContactForm()
+
+    if (!proceedSubmission) {
       event.preventDefault()
     }
   })
