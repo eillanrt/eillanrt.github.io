@@ -15,10 +15,6 @@ body {
   color: #fff;
 }
 
-section {
-  padding: 1.2rem;
-}
-
 .section-header {
   margin: 1rem 0;
 }
@@ -30,67 +26,10 @@ section {
 
 .section-header h2 {
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   padding: 1rem;
   width: 60%;
   margin: auto;
-}
-
-svg {
-  width: 100%;
-  height: 75px;
-}
-
-/*    WELCOME SECTION    */
-#welcome {
-  height: 100vh;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#welcome .card {
-  width: 540px;
-  padding: 12px;
-  display: flex;
-  justify-content: space-around;
-  flex-direction: column;
-  height: 190px;
-}
-
-.roles {
-  display: flex;
-  flex-wrap: wrap;
-  width: 80%;
-  margin: 2% auto 1%;
-  justify-content: space-around;
-  list-style: none;
-  padding: 0;
-}
-
-.roles li {
-  font-size: 1.1rem;
-  border-right: 1px solid #ffffff;
-  margin-right: 10px;
-  padding-right: 24px;
-  display: inline;
-}
-
-.roles li:last-child {
-  border-right: none;
-}
-
-.card h1 {
-  font-size: 2rem;
-  text-align: center;
-}
-
-.about {
-  font-size: 1.1rem;
-  line-height: 1.5;
-  margin: 12px 8px;
-  text-align: justify;
 }
 
 .particles-background {
@@ -100,108 +39,6 @@ svg {
   left: 0;
   z-index: 0;
 }
-
-/* PORTFOLIO */
-.portfolio-subtitle {
-  text-align: center;
-  font-size: 1.5rem;
-  padding: 1rem;
-  width: 60%;
-  margin: auto;
-}
-
-#portfolio {
-  padding: 20px;
-  background-color: #1d1b1b;
-}
-
-.portfolio-container {
-  display: flex;
-  width: 1300px;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.portfolio-item {
-  flex: 0 1 calc(33.33% - 20px);
-  margin: 10px;
-  border: 1px solid #ddd;
-  padding: 10px;
-  text-align: center;
-  background-color: #222;
-}
-
-.portfolio-svg {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 10px;
-}
-
-.title a {
-  font-size: 1.3rem;
-  font-weight: bold;
-  color: #ffffff;
-  text-decoration: underline;
-}
-
-.visited {
-  text-decoration: none !important;
-}
-
-.description {
-  font-size: 1rem;
-  color: #fffafa;
-  padding: 12px;
-}
-
-.education-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px;
-  padding: 20px;
-}
-
-.education-item {
-  background-color: #222;
-  border: 1px solid #444;
-  border-radius: 8px;
-  padding: 20px;
-  text-align: center;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-.university-logo-wrapper {
-  max-width: 100px;
-  height: 100px; /* Set a fixed size for all logos */
-  display: flex;
-  align-items: center; /* Vertically center the logo */
-  justify-content: center; /* Horizontally center the logo */
-  margin: 0 auto 10px;
-}
-
-.university-logo-wrapper img {
-  max-width: 100px;
-  height: auto;
-  display: block;
-  margin: 0 auto 10px;
-}
-
-.university-name {
-  font-size: 1.2rem;
-  margin-bottom: 10px;
-}
-
-.university-program {
-  font-size: 1.1rem;
-  color: #ccc;
-}
-
-.education-time {
-  font-size: 1rem;
-  color: #ffffff;
-  margin-top: 10px;
-}
-
 /* CONTACT */
 
 .asterisk-required {
