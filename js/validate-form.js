@@ -17,11 +17,6 @@ export default window.addEventListener('load', () => {
       return false
     }
 
-    if (subject === '') {
-      alert('Please enter a subject.')
-      return false
-    }
-
     if (name === '') {
       alert('Please enter your name.')
       return false
