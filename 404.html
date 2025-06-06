@@ -1,76 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>404</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
-      rel="stylesheet"
-    />
-    <style>
-      * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-        font-size: 16px;
-      }
 
-      body {
-        background-color: #36454f;
-        color: #fffff0;
-        font-family: 'Raleway', sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/media/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/media/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/media/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/favicon/media/site.webmanifest">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-size: 16px;
+    }
 
-      .container-404 {
-        text-align: center;
-      }
+    body {
+      background-color: #36454f;
+      color: #fffff0;
+      font-family: 'Raleway', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
 
+    .container-404 {
+      text-align: center;
+    }
+
+    .container-404 .title {
+      font-size: 8rem;
+      font-family: 'Lexend Giga', sans-serif;
+    }
+
+    .container-404 .subtitle {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    a.home-link {
+      color: #ffebcd;
+      font-size: 1.2rem;
+    }
+
+    @media (max-width: 600px) {
       .container-404 .title {
-        font-size: 8rem;
-        font-family: 'Lexend Giga', sans-serif;
+        font-size: 4rem;
       }
 
       .container-404 .subtitle {
-        font-size: 1.5rem;
-        margin-bottom: 1rem;
+        font-size: 1rem;
       }
 
       a.home-link {
-        color: #ffebcd;
-        font-size: 1.2rem;
+        font-size: 1rem;
       }
+    }
+  </style>
+</head>
 
-      @media (max-width: 600px) {
-        .container-404 .title {
-          font-size: 4rem;
-        }
-
-        .container-404 .subtitle {
-          font-size: 1rem;
-        }
-
-        a.home-link {
-          font-size: 1rem;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="container-404">
-      <h1 class="title">404</h1>
-      <p class="subtitle">
-        The page you were looking for does not exist or has been moved.
-      </p>
-      <div>
-        <a href="/" class="home-link">HOME</a>
-      </div>
+<body>
+  <div class="container-404">
+    <h1 class="title">404</h1>
+    <p class="subtitle">
+      The page you were looking for does not exist or has been moved.
+    </p>
+    <div>
+      <a href="/" class="home-link">HOME</a>
     </div>
-  </body>
+  </div>
+</body>
+
 </html>
