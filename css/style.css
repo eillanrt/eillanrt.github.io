@@ -64,13 +64,18 @@ body {
   background-color: #f5f6f5;
   min-height: 100vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 #welcome {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   max-width: 800px;
+  margin: 0 auto;
   padding: 2rem 1rem;
 }
 
@@ -80,6 +85,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 2rem;
   text-align: center;
+  width: 100%;
 }
 
 #card h1 {
@@ -186,5 +192,65 @@ body {
   margin: 0 auto;
 }
 
+footer {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer p {
+  font-size: 0.9rem;
+  color: #1a2526;
+}
+
+footer a {
+  color: #005b99;
+  transition: color 0.3s ease;
+}
+
+footer a:hover,
+footer a:focus {
+  color: #003087;
+}
+
 @media (max-width: 600px) {
   #card {
+    padding: 1.5rem;
+  }
+
+  #card h1 {
+    font-size: clamp(1.125rem, 0.9rem + 1.5vw, 1.75rem);
+  }
+
+  #card h1::after {
+    font-size: clamp(1.125rem, 0.9rem + 1.5vw, 1.75rem);
+  }
+
+  #card p {
+    font-size: 1rem;
+  }
+
+  #card nav li {
+    font-size: 1.2rem;
+  }
+
+  #card nav li a {
+    padding: 0.3rem;
+  }
+
+  footer p {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  #card h1 {
+    font-size: clamp(1.25rem, 1.2rem + 1.5vw, 2.25rem);
+  }
+
+  #card h1::after {
+    font-size: clamp(1.25rem, 1.2rem + 1.5vw, 2.25rem);
+  }
+}
