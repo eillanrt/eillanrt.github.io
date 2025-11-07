@@ -44,6 +44,7 @@ params:
   description: Blogs, thoughts, anything random
   author: Allan Robert Tan
   ShowReadingTime: true
+  ShowLastMod: true
   ShowWordCount: false
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -62,8 +63,11 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
   homeInfoParams:
-     Title: HOLA SOY DORA
-     Content: I write anything
+     Title: Allan Robert Tan
+     Content: |
+         -  Hello! Here I will be writing anything that comes to my mind.
+         -  It could be a random reflection, thoughts, review or even a rant.
+         -  I might also write technical blogs about geeky stuff.
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
