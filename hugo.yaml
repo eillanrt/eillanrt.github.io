@@ -40,7 +40,7 @@ outputs:
     - RSS
     - JSON
 params:
-  env: development
+  env: production
   description: Blogs, thoughts, anything random
   author: Allan Robert Tan
   ShowReadingTime: true
