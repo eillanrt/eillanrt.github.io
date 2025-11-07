@@ -41,10 +41,10 @@ outputs:
     - JSON
 params:
   env: development
-  description: Your site description
-  author: Allan Robert Yan
+  description: Blogs, thoughts, anything random
+  author: Allan Robert Tan
   ShowReadingTime: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -61,21 +61,9 @@ params:
     text: Home
     icon: /apple-touch-icon.png
     iconHeight: 35
-  profileMode:
-    enabled: true
-    title: Allan Robert Tan
-    subtitle: ""
-    imageUrl: img/profile.jpg
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: Profile Picture
-    buttons:
-      - name: Posts
-        url: /posts
-      - name: Tags
-        url: /tags
-      - name: About
-        url: /about
+  homeInfoParams:
+     Title: HOLA SOY DORA
+     Content: I write anything
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
@@ -87,6 +75,8 @@ params:
       url: mailto:nattrebornalla@gmail.com
     - name: rss
       url: /index.xml
+  mainSections: 
+      - posts
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
