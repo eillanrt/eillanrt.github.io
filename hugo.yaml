@@ -44,6 +44,7 @@ params:
   description: Blogs, thoughts, anything random
   author: Allan Robert Tan
   ShowReadingTime: true
+  ShowLastMod: true
   ShowWordCount: false
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -65,8 +66,8 @@ params:
      Title: Allan Robert Tan
      Content: |
          -  Hello! Here I will be writing anything that comes to my mind.
-         -  It could be a random reflection, thoughts, review or even a rant.
-         -  I might also write technical blogs about geeky stuff.
+         -  It could be technical stuff, thoughts, a review or even a rant.
+         -  Anything I find interesting I might write about it here.
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
