@@ -1,0 +1,124 @@
+baseURL: https://eillanrt.github.io/
+languageCode: en-us
+title: Allan Robert Tan Notebook
+theme: PaperMod
+pagination:
+  paperSize: 10
+  enableEmoji: true
+  enableRobotsTXT: true
+build:
+  writeStats: true
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 50
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+params:
+  env: development
+  description: Your site description
+  author: Allan Robert Yan
+  ShowReadingTime: true
+  ShowWordCount: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  hideMenuOnSingle: false
+  disableScrollToTop: false
+  ShowToc: true
+  TocOpen: false
+  DateFormat: January 2, 2006
+  defaultTheme: auto
+  disableThemeToggle: false
+  label:
+    text: Home
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+  profileMode:
+    enabled: true
+    title: Allan Robert Tan
+    subtitle: ""
+    imageUrl: img/profile.jpg
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Profile Picture
+    buttons:
+      - name: Posts
+        url: /posts
+      - name: Tags
+        url: /tags
+      - name: About
+        url: /about
+  socialIcons:
+    - name: github
+      url: https://github.com/eillanrt
+    - name: twitter
+      url: https://twitter.com/eillanrt
+    - name: linkedin
+      url: https://linkedin.com/in/argtan
+    - name: email
+      url: mailto:nattrebornalla@gmail.com
+    - name: rss
+      url: /index.xml
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+  cover:
+    linkFullImages: true
+    responsiveImages: true
+  editPost:
+    URL: https://github.com/eillanrt/eillanrt.github.io/tree/main/content
+    Text: Suggest Changes
+    appendFilePath: true
+privacy:
+  x:
+    enableDNT: true
+  youtube:
+    privacyEnhanced: true
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineNos: true
+    noClasses: false
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
