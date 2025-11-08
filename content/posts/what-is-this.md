@@ -40,7 +40,7 @@ Conversely, writing forces me to read more.
 That being said, you might see some typos, incosistencies, and slip-ups in my posts as I improve my writing capabilities.
 
 English will be the primarily language here. 
-Although, if necessary I might use Tagalog or Hiligaynon.
+Although, if necessary I might use Tagalog or Hiligaynon terminologies.
 If I do, rest assured I will provide my own translation with the given context.
 Non-English terms will appear in *italics*.
 
