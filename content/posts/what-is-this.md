@@ -46,7 +46,7 @@ Non-English terms will appear in *italics*.
 
 ## Edits and Modifications
 I may occasionally need to update a particular content.
-It might include incorrect information, typos, grammatical mistakes, punctuation mistakes, and improvable formatting.
+It might include incorrect or outdated information, typos, grammatical mistakes, punctuation mistakes, and improvable formatting.
 Changes in this blog are tracked by [Git](https://en.wikipedia.org/wiki/Git) and are hosted on GitHub pages.
 Any modifications made are visible on the commits section of this blog's [GitHub Repository](https://github.com/eillanrt/eillanrt.github.io/commits/main).
 
