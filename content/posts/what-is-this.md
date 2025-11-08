@@ -21,7 +21,7 @@ TocOpen: true
 
 ## What is this?
 I decided to start this blog as a way to share my thoughts, ideas, or literally anything.
-No censor, no judgement just my pure thinking. The topics might be pointless, useful, random, etc.
+No censorship, no judgement just my pure thinking. The topics might be pointless, useful, random, etc.
 You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own braindump everyone else who care might see (Judge me😅).
 Also, I find this as a good way of taking a break from what I would usually do.
 To do something a bit out of place — I do not write unless I have to.
