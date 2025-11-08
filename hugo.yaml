@@ -67,7 +67,7 @@ params:
      Content: |
          -  Hello! Here I will be writing anything that comes to my mind.
          -  It could be technical stuff, thoughts, a review or even a rant.
-         -  Anyhting I find interesting I might write about it here.
+         -  Anything I find interesting I might write about it here.
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
