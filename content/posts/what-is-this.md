@@ -32,10 +32,10 @@ From time to time I will be posting something new on to this site.
 I primarily will use my own words. 
 I will refrain from using LLMs to write every idea down or convey what I want to say. 
 Although I might use writing assistants which are particularly powered by LLMs to enhance my vocabulary and refine my drafts.
-Rest assured that the use of AI and LLMs in my posts are minimal and are only used for writing refinement (unless there is an absolute reason why I have to).
+Rest assured that the use of AI and LLMs in my posts are minimal and are only used for writing refinement *(unless there is an absolute other reason why I have to)*.
 I want to express my insights in a well articulated manner and I believe I can be more well-articulated person if I use those tools to improve the way I convey my notions.
 It is the exact point of why I decided to start blogging in the first place.
-Conversely, this forces me to read more.
+Conversely, writing forces me to read more.
 
 That being said, you might see some typos, incosistencies, and slip-ups in my posts as I improve my writing capabilities.
 
@@ -47,8 +47,8 @@ Non-English terms will appear in *italics*.
 ## Edits and Modifications
 I may occasionally need to update a particular content.
 It might include incorrect or outdated information, typos, grammatical mistakes, punctuation mistakes, and improvable formatting.
-Changes in this blog are tracked by [Git](https://en.wikipedia.org/wiki/Git) and are hosted on GitHub pages.
-Any modifications made are visible on the commits section of this blog's [GitHub Repository](https://github.com/eillanrt/eillanrt.github.io/commits/main).
+Changes in this site are tracked by [Git](https://en.wikipedia.org/wiki/Git) which can be viewed publicly on GitHub.
+Any modifications made on this site are visible on the commits section of this blog's [GitHub Repository](https://github.com/eillanrt/eillanrt.github.io/commits/main).
 
 
 # Feedbacks and Suggestions
