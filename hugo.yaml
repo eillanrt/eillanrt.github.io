@@ -65,9 +65,9 @@ params:
   homeInfoParams:
      Title: Allan Robert Tan
      Content: |
-         -  Hello! Here I will be writing anything that comes to my mind.
-         -  It could be technical stuff, thoughts, a review or even a rant.
-         -  Anything I find interesting I might write about it here.
+            👋 Hello! Welcome to my blog!
+            -  Anything I find worth-sharing I might write about it here.
+            -  It could be technical stuff, thoughts, a review or even a rant.
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
