@@ -5,7 +5,7 @@ description: "A short introduction on why I started this and what to anticipate.
 summary: "Why I decided to start blogging"
 date: 2025-11-07T20:09:51+08:00
 lastmod: 2025-11-08T20:10:20+08:00
-draft: true
+draft: false
 tags: ["reflection", "thoughts"]
 categories: ["personal"]
 aliases: []
