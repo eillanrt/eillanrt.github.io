@@ -54,13 +54,13 @@ params:
   hideMenuOnSingle: false
   disableScrollToTop: false
   ShowToc: true
-  TocOpen: false
+  TocOpen: true
   DateFormat: January 2, 2006
   defaultTheme: auto
   disableThemeToggle: false
   label:
     text: Home
-    icon: /apple-touch-icon.png
+    icon: favicon/apple-touch-icon.png
     iconHeight: 35
   homeInfoParams:
      Title: Allan Robert Tan
@@ -82,10 +82,10 @@ params:
   mainSections: 
       - posts
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/apple-touch-icon.png"
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
