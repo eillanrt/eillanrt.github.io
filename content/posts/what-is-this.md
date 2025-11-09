@@ -12,8 +12,6 @@ aliases: []
 slug: 'what-is-this'
 featured_image: ''
 canonical_url: ''
-ShowToc: true
-TocOpen: true
 ---
 
 
