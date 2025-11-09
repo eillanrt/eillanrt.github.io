@@ -12,6 +12,4 @@ aliases: []
 slug: '{{ .Name | urlize }}'
 featured_image: ''
 canonical_url: ''
-ShowToc: true
-TocOpen: true
 ---
