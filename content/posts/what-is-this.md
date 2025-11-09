@@ -54,7 +54,7 @@ Any modifications made on this site are visible on the commits section of this b
 # Feedbacks and Suggestions
 
 ## Contributing
-It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the GitHub repo of this page where you can suggest changes by through a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the GitHub repo of this page where you can suggest changes through a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 Note that in order to submit a pull request, you must have a GitHub account.
 
 ## Commenting
