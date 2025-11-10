@@ -37,8 +37,8 @@ Conversely, writing forces me to read more.
 That being said, you might see some typos, incosistencies, and slip-ups in my posts as I improve my writing capabilities.
 
 English will be the primarily language here. 
-Although, from time to time readers might encounter Tagalog or Hiligaynon terminologies in my posts.
-If I do, rest assured I would provide my own translation with the given context.
+Although, from time to time you might encounter Tagalog or Hiligaynon terminologies in my posts.
+If you do, rest assured I will provide my own translation with the given context.
 Non-English terms will appear in *italics*.
 
 ## Edits and Modifications
@@ -59,10 +59,10 @@ I am open to any Feedbacks or Suggestions on anything that I post here.
 I may or may not add a comment section for my posts in the future.
 As of writing this, I am not planning on adding comment section, as I do not consider it necessary.
 
-Nevertheless, Do not hesitate to send me a message via [Email](mailto:nattrebornalla@gmail.com) if you genuinely want to give your feedbacks or to just simply reach out.
+Nevertheless, do not hesitate to send me a message via [Email](mailto:nattrebornalla@gmail.com) if you genuinely want to give your feedbacks or to just simply reach out.
 Let's just keep it civil and respectful. However, please refrain from asking if you can ask or simply saying "hello" without saying anything. I will provide links below explaining why it is bad. You may check them out.
 
-#### 
+### Links
 - [Don't ask to ask](https://dontasktoask.com/)
 - [Nohello](https://nohello.net/en/)
 
