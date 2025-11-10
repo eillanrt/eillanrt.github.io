@@ -38,7 +38,7 @@ That being said, you might see some typos, incosistencies, and slip-ups in my po
 
 English will be the primarily language here. 
 Although, from time to time readers might encounter Tagalog or Hiligaynon terminologies in my posts.
-If I do, rest assured I will provide my own translation with the given context.
+If I do, rest assured I would provide my own translation with the given context.
 Non-English terms will appear in *italics*.
 
 ## Edits and Modifications
