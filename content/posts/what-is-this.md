@@ -21,7 +21,7 @@ I decided to start this blog as a way to share my thoughts, ideas, or anything a
 No censorship, no judgement just my pure thinking. The topics might be pointless, useful, random, etc.
 You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own braindump, everyone else who cares might see (Judge me😅).
 Also, I find this as a good way of taking a break from what I would usually do.
-To do something a bit out of place — I do not write unless I have to.
+To do something a bit out of place — *I do not write unless I have to*.
 Moreover, I also believe that writing improves articulation and communication skills.
 From time to time I will be posting something new on to this site.
 
@@ -37,7 +37,7 @@ Conversely, writing forces me to read more.
 That being said, you might see some typos, incosistencies, and slip-ups in my posts as I improve my writing capabilities.
 
 English will be the primarily language here. 
-Although, if necessary I might use Tagalog or Hiligaynon terminologies.
+Although, from time to time readers might encounter Tagalog or Hiligaynon terminologies in my posts.
 If I do, rest assured I will provide my own translation with the given context.
 Non-English terms will appear in *italics*.
 
@@ -51,7 +51,7 @@ Any modifications made on this site are visible on the commits section of this b
 # Feedbacks and Suggestions
 
 ## Contributing
-It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the GitHub repo of this page where you can suggest changes through a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the GitHub repo of the current blog page where you can suggest changes through a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 Note that in order to submit a pull request, you must have a GitHub account.
 
 ## Commenting
@@ -65,3 +65,5 @@ Let's just keep it civil and respectful. However, please refrain from asking if 
 #### 
 - [Don't ask to ask](https://dontasktoask.com/)
 - [Nohello](https://nohello.net/en/)
+
+Other than that, feel free to reach me out. See you on my next post!
