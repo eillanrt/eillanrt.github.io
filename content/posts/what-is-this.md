@@ -9,6 +9,7 @@ tags: ["reflection", "thoughts"]
 categories: ["personal"]
 aliases: ["/about"]
 slug: 'what-is-this'
+weight: 1
 ---
 
 
