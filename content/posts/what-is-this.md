@@ -79,7 +79,7 @@ I make **no** promises that I will:
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
 ## Copyright
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+This blog is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 # Feedback and Suggestions
 
@@ -106,7 +106,7 @@ Just note that I have a few rules in the online space of communication.
 
 Nevertheless, do not hesitate to send me a message via email if you genuinely want to give your comments or simply an invite to a fruitful conversation.
 
-That’s a wrap. I may regularly update this post to accommodate and address concerns to this site.
+That’s a wrap. I may regularly update this post to accommodate and address concerns to this blog.
 This post is also available at the `/about` page of this blog for future reference.
 
 # Worth Reading
