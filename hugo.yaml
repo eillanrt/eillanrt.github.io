@@ -61,7 +61,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   label:
-    text: Home
+    text: Blog
     icon: favicon/apple-touch-icon.png
     iconHeight: 35
   homeInfoParams:

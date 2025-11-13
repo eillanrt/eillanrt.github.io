@@ -9,8 +9,6 @@ tags: ["reflection", "thoughts"]
 categories: ["personal"]
 aliases: ["/about"]
 slug: 'what-is-this'
-featured_image: ''
-canonical_url: ''
 ---
 
 
@@ -23,7 +21,7 @@ You might say it is like a personal diary or journal, but I would not consider i
 Also, I find this as a good way of taking a break from what I would usually do.
 To do something a bit out of place — I do not write unless I have to.
 Moreover, I also believe that writing improves articulation and communication skills.
-From time to time, I will be posting something new on to this site.
+From time to time, I will be posting something new on this blog.
 
 ## Structure
 I structured this blog in a way that is easy to browse for readers.

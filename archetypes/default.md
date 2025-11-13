@@ -7,8 +7,5 @@ date: {{ .Date }}
 draft: true
 tags: []
 categories: []
-aliases: []
 slug: '{{ .Name | urlize }}'
-featured_image: ''
-canonical_url: ''
 ---
