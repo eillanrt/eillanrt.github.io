@@ -1,7 +1,7 @@
 ---
 author: ["Allan Robert Tan"]
 title: 'What Is This?'
-description: "A short introduction on why I started this and what to anticipate."
+description: "A short introduction on why I started this blog and what to anticipate."
 summary: "Why I decided to start blogging"
 date: 2025-11-07T20:09:51+08:00
 draft: false
