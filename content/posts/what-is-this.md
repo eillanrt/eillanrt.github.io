@@ -21,7 +21,7 @@ I decided to start this blog as a way to share my thoughts, ideas, or anything a
 The topics might be pointless, useful, random, etc.
 You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own braindump, everyone else who cares might see (Judge me😅).
 Also, I find this as a good way of taking a break from what I would usually do.
-To do something a bit out of place — I only write when I have to.
+To do something a bit out of place — I do not write unless I have to.
 Moreover, I also believe that writing improves articulation and communication skills.
 From time to time, I will be posting something new on to this site.
 
@@ -35,7 +35,7 @@ If you ever need to search any posts, you can go to the search section and have 
 I will refrain from using LLMs to write every idea down or convey what I want to say.
 Although I might use writing assistants which are particularly powered by LLMs to enhance my vocabulary and refine my drafts.
 Rest assured that the use of AI and LLMs in my posts is minimal and are only used for writing refinement *(unless there is an absolute other reason why I must)*.
-I want to express my insights in a well-articulated manner, and I believe I can be more well-articulated person if I use those tools to improve the way I convey my notions.
+I want to express my insights in a well-articulated manner, and I believe I can be a more well-articulated person if I use those tools to improve the way I convey my notions.
 It is the exact point of why I decided to start blogging in the first place.
 Conversely, writing forces me to read more.
 
@@ -44,7 +44,7 @@ That being said, you might see some typos, inconsistencies, and slip-ups in my p
 English will be the primary language here.
 Although, from time to time you might encounter Tagalog or Hiligaynon terminologies in my posts.
 If you do, rest assured I will provide my own translation with the given context.
-Non-English terms will appear in italics.
+Non-English terms will appear in *italics*.
 
 ## Subscribing
 My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader or aggregator by adding `https://eillanrt.github.io` to your subscription list. Thanks btw! For starters, try using a service like [Feedly](https://feedly.com). 
@@ -52,7 +52,7 @@ My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader 
 If you're new to RSS feeders, you can read about it [here](https://en.wikipedia.org/wiki/RSS).
 It is one of the oldest standards on the web. It has been around for a long time.
 It is simple and more privacy-oriented than modern newsletters nowadays.
-Shame most people nowadays have no idea what it is, or that it even exists.
+It's a shame most people nowadays have no idea what it is, or that it even exists.
 You can use Feedly to start subscribing to RSS feeds, such as this blog.
 
 # Content
@@ -71,7 +71,7 @@ Obviously, it won’t be in the main branch anymore and won’t be displayed on 
 It is your responsibility as a reader to be cautious on what you read on the internet. 
 
 I make **no** promises that I will:
-- Always will avoid vulgar language
+- Always avoid vulgar language
 - Always provide strictly factual information
 - Refrain from writing posts that may contain literary spoilers
 - Please everyone
@@ -84,32 +84,33 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 # Feedback and Suggestions
 
 ## Contributing
-It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the GitHub repo of the current blog page where you can suggest changes through a pull request.
+It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the source of the current post where you can suggest changes through a pull request.
 Note that to submit a pull request, you must have a GitHub account.
 Suggestions on formatting, typo report, etc. are appreciated.
 
 ## Commenting
-I am open to any Feedback or Suggestions on anything that I post here.
+I am open to Feedback and Suggestions on anything that I post here.
 I may or may not add a comment section for my posts in the future.
-As of writing this, I am not planning on adding comment section, as I do not consider it necessary.
-This blog doesn’t have a feature that allows users to give thumbs-up or thumbs up on my blog as a way of showing appreciation or dislike.
-This is by design; I am staying away from engagement game as much as possible.
+As of writing this, I am not planning on adding a comment section, as I do not consider it necessary.
+This blog doesn’t have a feature that allows readers to give thumbs up or thumbs down on my posts as a way of showing appreciation or dislike.
+This is by design; I am staying away from the engagement game as much as possible.
 Also, it is the static nature of Static Site Generators, as the name suggests.
-Though comment section can be added, it would be an embedded plugin via a third-party.
+Though comment sections can be added, it would be an embedded plugin via a third-party.
 
 Feel free to send me a message on my email though *(just not spam, ofc. Please)*.
-Just note that I have some few boundaries in the online space of communication.
-Please refrain from asking if you can ask or simply saying “hello” without a message.
-Links provided below explain why it is inappropriate.
+Just note that I have a few rules in the online space of communication.
 
-### Seriously, don't leave people hanging
-- [Don't ask to ask](https://dontasktoask.com/)
-- [Nohello](https://nohello.net/en/)
+1. **Just Ask:** No need to ask for permission to ask — just ask your question.
+2. **Message First:** Refrain from sending just "hello" or empty greetings; Always include your full message.
+3. **Be Civil:** Let’s keep it civil and respectful.
 
 Nevertheless, do not hesitate to send me a message via email if you genuinely want to give your comments or simply an invite to a fruitful conversation.
-Let’s keep it civil and respectful.
 
-That’s a wrap. I may regularly update this post to accommodate changes.
+That’s a wrap. I may regularly update this post to accommodate and address concerns to this site.
 This post is also available at the `/about` page of this blog for future reference.
+
+# Worth Reading
+- [Don't ask to ask, just ask](https://dontasktoask.com/)
+- [Nohello](https://nohello.net/en/)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
