@@ -4,7 +4,7 @@ title: Allan Robert Tan - Notebook
 theme: PaperMod
 enableGitInfo: true
 pagination:
-  paperSize: 5
+  pagerSize: 5
   enableEmoji: true
   enableRobotsTXT: true
 build:
