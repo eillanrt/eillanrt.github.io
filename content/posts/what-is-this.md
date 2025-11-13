@@ -79,7 +79,7 @@ I make **no** promises that I will:
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
 ## Copyright
-This blog is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 # Feedback and Suggestions
 
