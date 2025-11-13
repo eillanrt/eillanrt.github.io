@@ -1,7 +1,7 @@
 ---
 author: ["Allan Robert Tan"]
 title: 'What Is This?'
-description: "A short introduction on why I started this and what to anticipate."
+description: "A short introduction on why I started this blog and what to anticipate."
 summary: "Why I decided to start blogging"
 date: 2025-11-07T20:09:51+08:00
 draft: false
@@ -106,7 +106,7 @@ Just note that I have a few rules in the online space of communication.
 
 Nevertheless, do not hesitate to send me a message via email if you genuinely want to give your comments or simply an invite to a fruitful conversation.
 
-That’s a wrap. I may regularly update this post to accommodate and address concerns to this site.
+That’s a wrap. I may regularly update this post to accommodate and address concerns to this blog.
 This post is also available at the `/about` page of this blog for future reference.
 
 # Worth Reading
