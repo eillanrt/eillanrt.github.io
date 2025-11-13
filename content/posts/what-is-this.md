@@ -9,8 +9,6 @@ tags: ["reflection", "thoughts"]
 categories: ["personal"]
 aliases: ["/about"]
 slug: 'what-is-this'
-featured_image: ''
-canonical_url: ''
 ---
 
 
