@@ -38,7 +38,7 @@ I want to express my insights in a well-articulated manner, and I believe I can 
 It is the exact point of why I decided to start blogging in the first place.
 Conversely, writing forces me to read more.
 
-That being said, you might see some typos, inconsistencies, and slip-ups in my posts as I improve my writing capabilities.
+That being said, you might see some typos, grammatical errors, inconsistencies, and slip-ups in my posts as I improve my writing capabilities.
 
 English will be the primary language here.
 Although, from time to time you might encounter Tagalog or Hiligaynon terminologies in my posts.
