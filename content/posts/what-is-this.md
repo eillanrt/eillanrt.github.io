@@ -20,7 +20,7 @@ I decided to start this blog as a way to share my thoughts, ideas, or anything a
 The topics might be pointless, useful, random, etc.
 You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own braindump, everyone else who cares might see (Judge me😅).
 Also, I find this as a good way of taking a break from what I would usually do.
-To do something a bit out of place — I do not write unless I have to.
+To do something a bit out of place—I do not write unless I have to.
 Moreover, I also believe that writing improves articulation and communication skills.
 From time to time, I will be posting something new on this blog.
 
@@ -31,6 +31,10 @@ In the archives section though, posts will be sorted out by year and month publi
 If you ever need to search any posts, you can go to the search section and have your keywords entered.
 
 ## Language
+English will be the primary language here.
+Although from time to time you might encounter Tagalog or [Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) terminologies in my posts, rest assured I will provide my own translation with the given context.
+Non-English terms will appear in *italics*.
+
 I will refrain from using LLMs to write every idea down or convey what I want to say.
 Although I might use writing assistants which are particularly powered by LLMs to enhance my vocabulary and refine my drafts.
 I guarantee that the use of AI and LLMs in my posts is minimal and are only used for writing refinement *(unless there is an absolute other reason why I must)*.
@@ -38,11 +42,11 @@ I want to express my insights in a well-articulated manner, and I believe I can 
 It is the exact point of why I decided to start blogging in the first place.
 Conversely, writing forces me to read more.
 
-That being said, you might see some typos, grammatical errors, inconsistencies, and slip-ups in my posts as I improve my writing capabilities.
-
-English will be the primary language here.
-Although from time to time you might encounter Tagalog or [Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) terminologies in my posts, rest assured I will provide my own translation with the given context.
-Non-English terms will appear in *italics*.
+That said, you might see some grammatical errors, inconsistencies, and slip-ups in my posts.
+Over the years, I’ve realized that people will always make mistakes in conversation—especially in casual ones. 
+Let’s do our best not to be pedantic about it—embrace mistakes. 
+It is what makes us humans after all.
+In formal or academic registers, of course it is a different story.
 
 ## Subscribing
 My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader by adding `https://eillanrt.github.io/index.xml` to your subscription list.
@@ -98,7 +102,7 @@ Though comment sections can be added, it would be an embedded plugin via a third
 Feel free to send me a message on my email though *(just not spam, ofc. Please)*.
 Just note that I have a few rules in the online space of communication.
 
-1. **Just Ask:** No need to ask for permission to ask — just ask your question.
+1. **Just Ask:** No need to ask for permission to ask—just ask your question.
 2. **Message First:** Refrain from sending just "hello" or empty greetings; Always include your full message.
 3. **Be Civil:** Let’s keep it civil and respectful.
 
