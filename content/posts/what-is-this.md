@@ -49,7 +49,7 @@ Non-English terms will appear in *italics*.
 My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader by adding `https://eillanrt.github.io/index.xml` to your subscription list.
 Thanks btw! For starters, try using a service like [Feedly](https://feedly.com). 
 
-If you're new to RSS feeders, you can read about it [here](https://en.wikipedia.org/wiki/RSS).
+If you're new to RSS, you can read about it [here](https://en.wikipedia.org/wiki/RSS).
 It is one of the oldest standards on the web. It has been around for a long time.
 It is simple and more privacy-oriented than modern newsletters nowadays.
 You can use RSS readers to start subscribing to RSS feeds, such as this blog.
