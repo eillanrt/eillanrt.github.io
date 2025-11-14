@@ -33,7 +33,7 @@ If you ever need to search any posts, you can go to the search section and have 
 ## Language
 I will refrain from using LLMs to write every idea down or convey what I want to say.
 Although I might use writing assistants which are particularly powered by LLMs to enhance my vocabulary and refine my drafts.
-Rest assured that the use of AI and LLMs in my posts is minimal and are only used for writing refinement *(unless there is an absolute other reason why I must)*.
+I guarantee that the use of AI and LLMs in my posts is minimal and are only used for writing refinement *(unless there is an absolute other reason why I must)*.
 I want to express my insights in a well-articulated manner, and I believe I can be a more well-articulated person if I use those tools to improve the way I convey my notions.
 It is the exact point of why I decided to start blogging in the first place.
 Conversely, writing forces me to read more.
@@ -112,5 +112,6 @@ This post is also available at the `/about` page of this blog for future referen
 - [Don't ask to ask, just ask](https://dontasktoask.com/)
 - [Nohello](https://nohello.net/en/)
 
+---
 <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Feillanrt.github.io%2Findex.xml'  target='blank'><img id='feedlyFollow' src='https://s1.feedly.com/legacy/feedly-follow-rectangle-flat-big_2x.png' alt='follow us in feedly' width='131' height='56'></a>
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
