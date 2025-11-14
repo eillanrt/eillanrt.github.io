@@ -41,7 +41,7 @@ Conversely, writing forces me to read more.
 That being said, you might see some typos, grammatical errors, inconsistencies, and slip-ups in my posts as I improve my writing capabilities.
 
 English will be the primary language here.
-Although from time to time you might encounter Tagalog or Hiligaynon terminologies in my posts, rest assured I will provide my own translation with the given context.
+Although from time to time you might encounter Tagalog or [Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) terminologies in my posts, rest assured I will provide my own translation with the given context.
 Non-English terms will appear in *italics*.
 
 ## Subscribing
