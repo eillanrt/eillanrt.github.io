@@ -46,13 +46,12 @@ If you do, rest assured I will provide my own translation with the given context
 Non-English terms will appear in *italics*.
 
 ## Subscribing
-My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader or aggregator by adding `https://eillanrt.github.io/index.xml` to your subscription list. Thanks btw! For starters, try using a service like [Feedly](https://feedly.com). 
+My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader by adding `https://eillanrt.github.io/index.xml` to your subscription list. Thanks btw! For starters, try using a service like [Feedly](https://feedly.com). 
 
 If you're new to RSS feeders, you can read about it [here](https://en.wikipedia.org/wiki/RSS).
 It is one of the oldest standards on the web. It has been around for a long time.
 It is simple and more privacy-oriented than modern newsletters nowadays.
-It's a shame most people nowadays have no idea what it is, or that it even exists.
-You can use Feedly to start subscribing to RSS feeds, such as this blog.
+You can use RSS readers to start subscribing to RSS feeds, such as this blog.
 
 # Content
 
@@ -112,4 +111,5 @@ This post is also available at the `/about` page of this blog for future referen
 - [Don't ask to ask, just ask](https://dontasktoask.com/)
 - [Nohello](https://nohello.net/en/)
 
+<a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Feillanrt.github.io%2Findex.xml'  target='blank'><img id='feedlyFollow' src='https://s1.feedly.com/legacy/feedly-follow-rectangle-flat-big_2x.png' alt='follow us in feedly' width='131' height='56'></a>
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
