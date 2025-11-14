@@ -116,5 +116,3 @@ This post is also available at the `/about` page of this blog for future referen
 - [Nohello](https://nohello.net/en/)
 
 ---
-<a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Feillanrt.github.io%2Findex.xml'  target='blank'><img id='feedlyFollow' src='https://s1.feedly.com/legacy/feedly-follow-rectangle-flat-big_2x.png' alt='follow us in feedly' width='131' height='56'></a>
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
