@@ -42,7 +42,7 @@ outputs:
     - JSON
 params:
   env: production
-  description: Allan Robert Tan's Personal Blog - A notebook for anything worth-sharing.
+  description: Allan Robert Tan's Personal Blog
   author: Allan Robert Tan
   ShowReadingTime: true
   ShowLastMod: true
