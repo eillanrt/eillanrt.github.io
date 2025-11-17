@@ -81,7 +81,14 @@ I make **no** promises that I will:
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
 ## License
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+The blog's code and content are licensed separately.
+
+**Source Code**: All source code used to build and display this blog is licensed under the [MIT License](https://opensource.org/license/mit).
+(This applies to all files except the content in the `content/posts` directory.)
+
+**Content**: All posts found in the `content/posts` directory are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Attribution**: Any third-party content, such as images, that is not original to this blog is used with permission and will be given proper credit within the post.
 
 # Feedback and Suggestions
 
