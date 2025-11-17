@@ -18,7 +18,7 @@ weight: 1
 ## What is this?
 I decided to start this blog as a way to share my thoughts, ideas, or anything at all.
 The topics might be pointless, useful, random, etc.
-You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own braindump, everyone else who cares might see (Judge me😅).
+You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own brain dump, everyone else who cares might see (Judge me).
 Also, I find this as a good way of taking a break from what I would usually do.
 To do something a bit out of place—I do not write unless I have to.
 Moreover, I also believe that writing improves articulation and communication skills.
@@ -30,7 +30,7 @@ The posts listed in the posts section may not be sorted by date created or modif
 In the archives section though, posts will be sorted out by year and month published.
 If you ever need to search any posts, you can go to the search section and have your keywords entered.
 
-## Language
+## Language and AI Use
 English will be the primary language here.
 Although from time to time you might encounter Tagalog or [Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) terminologies in my posts, rest assured I will provide my own translation with the given context.
 Non-English terms will appear in *italics*.
@@ -80,9 +80,6 @@ I make **no** promises that I will:
 
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
-## Copyright
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
 # Feedback and Suggestions
 
 ## Contributing
@@ -114,5 +111,3 @@ This post is also available at the `/about` page of this blog for future referen
 # Worth Reading
 - [Don't ask to ask, just ask](https://dontasktoask.com/)
 - [Nohello](https://nohello.net/en/)
-
----
