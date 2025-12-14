@@ -18,10 +18,8 @@ weight: 1
 ## What is this?
 I decided to start this blog as a way to share my thoughts, ideas, or anything at all.
 The topics might be pointless, useful, random, etc.
-You might say it is like a personal diary or journal, but I would not consider it as one but rather as my own brain dump, everyone else who cares might see (Judge me).
-Also, I find this as a good way of taking a break from what I would usually do.
-To do something a bit out of place—I do not write unless I have to.
-Moreover, I also believe that writing improves articulation and communication skills.
+I consider this as my own brain dump that everyone else who cares might stumble upon (Judge me).
+I also believe that having your thoughts transformed into a form of something visible or tangible improves articulation and communication skills.
 From time to time, I will be posting something new on this blog.
 
 ## Structure
@@ -39,7 +37,6 @@ I will refrain from using LLMs to write every idea down or convey what I want to
 Although I might use writing assistants which are particularly powered by LLMs to enhance my vocabulary and refine my drafts.
 I guarantee that the use of AI and LLMs in my posts is minimal and are only used for writing refinement *(unless there is an absolute other reason why I must)*.
 I want to express my insights in a well-articulated manner, and I believe I can be a more well-articulated person if I use those tools to improve the way I convey my notions.
-It is the exact point of why I decided to start blogging in the first place.
 Conversely, writing forces me to read more.
 
 That said, you might see some grammatical errors, inconsistencies, and slip-ups in my posts.
