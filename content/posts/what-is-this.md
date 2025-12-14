@@ -19,12 +19,12 @@ weight: 1
 I decided to start this blog as a way to share my thoughts, ideas, or anything at all.
 The topics might be pointless, useful, random, etc.
 I consider this as my own brain dump that everyone else who cares might stumble upon (Judge me).
-I also believe that having your thoughts transformed into a form of something visible or tangible improves articulation and communication skills.
+I also believe that having our thoughts transformed into a form of something visible or tangible improves our articulation and communication skills.
 From time to time, I will be posting something new on this blog.
 
 ## Structure
 I structured this blog in a way that is easy to browse for readers.
-The posts listed in the posts section may not be sorted by date created or modified, but rather based on what I personally think is currently relevant or could be more engaging for visitors.
+The posts listed in the posts section may not be sorted by date created or modified, but based on what I personally think is currently relevant or could be more engaging for visitors.
 In the archives section though, posts will be sorted out by year and month published.
 If you ever need to search any posts, you can go to the search section and have your keywords entered.
 
