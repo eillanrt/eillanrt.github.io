@@ -70,7 +70,7 @@ params:
             👋 Hello! Welcome to my blog!
             -  Anything I find worth-sharing I might write about it here.
             -  It could be technical stuff, thoughts, a review or a rant.
-            -  Don't hesitate to give feedback or suggest changes. :)
+            -  Don't hesitate to give feedback. :)
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
