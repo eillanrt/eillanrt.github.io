@@ -80,11 +80,7 @@ The blog's code and content are licensed separately.
 
 **Source Code**: All source code used to build and display this blog is licensed under the [MIT License](https://opensource.org/license/mit).
 
-<<<<<<< HEAD
-**Content**: All original content on this blog, including texts, images, and diagrams, is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (Unless otherwise noted).
-=======
 **Content**: All original content in this blog is All Rights Reserved.
->>>>>>> work
 
 **Attribution**: Any third-party content that is not original to this blog is used with permission or under its respective license, and will be given proper credit within the post.
 
