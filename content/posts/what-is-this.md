@@ -53,21 +53,16 @@ My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader 
 Thanks btw! For starters, try using a service like [Feedly](https://feedly.com). 
 
 If you're new to RSS, you can read about it [here](https://en.wikipedia.org/wiki/RSS).
-It is one of the oldest standards on the web. It has been around for a long time.
-It is simple and more privacy-oriented than modern newsletters nowadays.
+It is one of the oldest standards on the web.
 You can use RSS readers to start subscribing to RSS feeds, such as this blog.
+
+Even though this blog is not necessarily for virality and content creation, having this blog RSS-enabled makes readers have a way to subscribe.
 
 # Content
 
 ## Modifications
 I may occasionally need to update a particular content.
 It might include incorrect or outdated information, typos, grammatical mistakes, punctuation mistakes, and improvable formatting.
-Changes in this site are tracked by [Git](https://en.wikipedia.org/wiki/Git) which can be viewed publicly on GitHub.
-Any modifications made on this site are visible on the commits section of this blog’s [GitHub Repository](https://github.com/eillanrt/eillanrt.github.io/commits/main/).
-
-## Removal
-Since changes made are tracked by Git, even removed posts are still visible in the Git commit history.
-Obviously, it won’t be in the main branch anymore and won’t be displayed on this blog’s production.
 
 ## Reader's Discretion
 It is your responsibility as a reader to be cautious on what you read on the internet. 
@@ -85,16 +80,11 @@ The blog's code and content are licensed separately.
 
 **Source Code**: All source code used to build and display this blog is licensed under the [MIT License](https://opensource.org/license/mit).
 
-**Content**: All original content on this blog, including texts, images, and diagrams, is licensed under exclusive copyright (Unless otherwise noted).
+**Content**: All original content in this blog is All Rights Reserved.
 
-**Attribution**: Any third-party content, such as images, that is not original to this blog is used with permission or under its respective license, and will be given proper credit within the post.
+**Attribution**: Any third-party content that is not original to this blog is used with permission or under its respective license, and will be given proper credit within the post.
 
 # Feedback and Suggestions
-
-## Contributing
-It is possible to suggest changes on a blog post by clicking the `Suggest Changes` link in the header section of each blog post which takes you to the source of the current post where you can suggest changes through a pull request.
-Note that to submit a pull request, you must have a GitHub account.
-Suggestions on formatting, typo report, etc. are appreciated.
 
 ## Commenting
 I am open to Feedback and Suggestions on anything that I post here.
