@@ -104,10 +104,6 @@ params:
   cover:
     linkFullImages: true
     responsiveImages: true
-  editPost:
-    URL: https://github.com/eillanrt/eillanrt.github.io/tree/main/content
-    Text: Suggest Changes
-    appendFilePath: true
 privacy:
   x:
     enableDNT: true
