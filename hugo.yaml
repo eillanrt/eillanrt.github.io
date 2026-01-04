@@ -68,9 +68,9 @@ params:
      Title: Allan Robert Tan
      Content: |
             👋 Hello! Welcome to my blog!
-            -  Anything I find worth-sharing I might write about it here.
-            -  It could be technical stuff, thoughts, a review or a rant.
-            -  Don't hesitate to give feedback. :)
+            -  I write about anything here.
+            -  For posterity and future reminiscence.
+            -  Feel free to reach out. :)
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
