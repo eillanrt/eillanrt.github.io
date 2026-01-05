@@ -100,7 +100,7 @@ Students often have this "love-hate" relationship with their academic institutio
 
 The "hate" comes from the burden of *"you have to"*. In my country particularly, there are cases where students are often desensitized to the external factors and are expected to prioritize studying even during a typhoon—*the Filipino resiliency culture* (another wholly interesting topic). In college, life starts to become the preview of adulting—*the soft launch*. Academic institutions are often bureaucratic and more often than not, *unforgiving*. Stringent enrollment processes, crappy systems, terror professors, deadlines, grueling schedule, financial stress, long commute, just to name a few. It *dictates* a student's life. It teaches students that joy is not the only thing in life. That they have responsibilities to fulfill and the world demands results. The joys and struggles. The experience that AI offers no alternative, is what I believe, makes a well-rounded person.
 
-***AI/LLMs hardly touches these aspects of life as a student.***
+***AI hardly touches these aspects of life as a student.***
 
 ---
 # Footnotes
