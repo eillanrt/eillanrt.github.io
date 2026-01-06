@@ -17,7 +17,7 @@ weight: 1
 ## Why?
 I decided to start this blog as a way to unload my mind just a little bit.
 The topics might be pointless, useful, random, etc.
-I consider this as my own brain dump that everyone else who cares might stumble upon (judge me).
+I consider this as my own brain dump that anyone who cares might stumble upon (judge me).
 I also believe that having our thoughts transformed into a form of something visible or tangible improves our articulation and communication skills.
 From time to time, I will be posting something new on this blog.
 
