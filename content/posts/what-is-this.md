@@ -13,7 +13,6 @@ weight: 1
 ---
 
 # Hey, I am starting to write!
-
 ## Why?
 I decided to start this blog as a way to unload my mind just a little bit.
 The topics might be pointless, useful, random, etc.
@@ -49,11 +48,6 @@ You can use RSS readers to start subscribing to RSS feeds, such as this blog.
 Even though this blog is not necessarily for virality and content creation in a traditional sense, having this blog RSS-enabled makes readers have a way to subscribe.
 
 # Content
-## Modifications
-I may occasionally need to update a particular content.
-It might include incorrect, missing, or outdated information, typos, grammatical mistakes, punctuation mistakes, etc.
-
-## Reader's Discretion
 ## Disclaimer and Discretion
 ***It is our responsibility to be cautious on what we read on the internet.***
 
