@@ -1,3 +1,7 @@
 .home-info ul {
     padding-inline-start: 20px;
 }
+
+.katex-mathml {
+    display: none !important;
+}
