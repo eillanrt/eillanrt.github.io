@@ -3,10 +3,10 @@ languageCode: en-us
 title: Allan Robert Tan - Notebook
 theme: PaperMod
 enableGitInfo: true
+enableRobotsTXT: true
 pagination:
   pagerSize: 5
   enableEmoji: true
-  enableRobotsTXT: true
 build:
   writeStats: true
 menu:
@@ -40,6 +40,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+    - ROBOTS
 params:
   env: production
   description: Allan Robert Tan's Personal Blog
