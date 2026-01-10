@@ -16,7 +16,7 @@
     text-decoration: underline;
 }
 
-.post-content a[href^="http"]::after {
+.post-content a[href^="http"]:not(:has(img))::after {
     content: "";
     display: inline-block;
     width: 0.8em;
