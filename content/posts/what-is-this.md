@@ -26,7 +26,7 @@ Although from time to time you might encounter Tagalog or [Hiligaynon](https://e
 Non-English terms will appear in *italics*.
 
 I will refrain from using LLMs to write every idea down or convey what I want to say.
-Although I might use writing assistants powered by LLMs to help me articulate some specific thoughts, I guarantee that the use of LLMs in my writing is minimal.
+Although I might use writing assistants powered by LLMs to help me articulate some specific thoughts, I guarantee that the use of LLMs in my writing is negligible.
 Relying fully on AI to expedite my writing process defeats the purpose stated above in the "Why" section.
 Conversely, writing forces me to read more.
 
@@ -59,12 +59,12 @@ I make **no** promises that I will:
 
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
-## License
+## License and Copyright
 The blog's code and content are licensed separately.
 
-**Source Code**: All source code used to build and display this blog such is licensed under the [MIT License](https://opensource.org/license/mit).
+**Source Code**: Source code used to build and display this blog is licensed under the [MIT License](https://opensource.org/license/mit).
 
-**Content**: All original content in this blog (e.g., text, images, and audio) is **All Rights Reserved**.
+**Content**: Unless otherwise stated, original content in this blog (e.g., text, images, and audio) is **All Rights Reserved**.
 
 **Attribution**: Any third-party content that is not original to this blog is used with permission or under its respective license, and will be given proper credit within the post.
 
@@ -85,7 +85,7 @@ Just note that I have a few rules in the online space of communication.
 2. **Message First:** Refrain from sending just "hello" or empty greetings; Always include your full message.
 3. **Be Civil:** Let’s keep it civil and respectful.
 
-Nevertheless, do not hesitate to send me a message via email if you genuinely want to give your comments or simply an invite to a fruitful conversation.
+That said, do not hesitate to send me a message via email if you have thoughts on any of my posts that you'd like to share. Or maybe you just want to invite me to a fruitful conversation.
 
 That’s a wrap. I may regularly update this post to accommodate and address concerns to this blog.
 This post is also available at the `/about` page of this blog for future reference.
