@@ -10,7 +10,7 @@ I want to make as few customizations as possible. Keeping only the necessary one
 
 ## Shortcode: Callout   
 ### Arguments:
-- type (string): Specifies the icon and visual style of the callout.
+- type (string, optional): Specifies the icon and visual style of the callout.
     - Options: `"info"` (default), `"warning"`, `"danger"`, `"success"`
 - title (string, optional): Heading displayed at the top of the callout box.
 
