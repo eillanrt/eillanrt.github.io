@@ -28,7 +28,20 @@ This feature will be removed in version 2.0. Please migrate your configuration t
 ## Support for KaTeX rendering
 I can write [KaTeX](https://katex.org/) syntax on markdown for math formulas.
 
+### In front matter, add:
+```yaml
+math: true
+```
+Then start writing KaTeX. 
+- `$` for inline mode math.
+- `$$` for display mode math.
+
 ### Example:
+#### Inline Mode
+```markdown
+The Pythagorean Theorem formula is $ a^2 + b^2 = c^2 $
+```
+#### Display Mode
 ```markdown
 # The Quadratic Formula:
 
