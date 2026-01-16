@@ -1,3 +1,13 @@
+:root {
+    /* Callout color variables */
+    --callout-info: #3b82f6;
+    --callout-warn: #eab308;
+    --callout-danger: #ef4444;
+    --callout-success: #22c55e;
+}
+
+/* General CSS */
+
 .home-info ul {
     padding-inline-start: 20px;
 }
@@ -16,6 +26,8 @@
     text-decoration: underline;
 }
 
+/* Arrow icons next to external links*/
+
 .post-content .post-basic-link[href^="http"]::after {
     content: "";
     display: inline-block;
@@ -33,4 +45,66 @@
 .post-content .post-basic-link[href*="eillanrt.github.io"]::after,
 .post-content .post-basic-link[href*="localhost"]::after {
     content: none;
+}
+
+/* callouts */
+
+.callout {
+    position: relative;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    border-left: 4px solid;
+    border-radius: var(--radius);
+    background: var(--code-bg);
+}
+
+.callout-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.callout-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.callout-icon svg {
+    width: 24px;
+    height: 24px;
+}
+
+.callout-content p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.callout-info {
+    border-left-color: var(--callout-info);
+}
+.callout-info .callout-icon {
+    color: var(--callout-info);
+}
+
+.callout-warning {
+    border-left-color: var(--callout-warn);
+}
+.callout-warning .callout-icon {
+    color: var(--callout-warn);
+}
+
+.callout-danger {
+    border-left-color: var(--callout-danger);
+}
+.callout-danger .callout-icon {
+    color: var(--callout-danger);
+}
+
+.callout-success {
+    border-left-color: var(--callout-success);
+}
+.callout-success .callout-icon {
+    color: var(--callout-success);
 }
