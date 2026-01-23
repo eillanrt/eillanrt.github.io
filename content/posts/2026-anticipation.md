@@ -41,4 +41,4 @@ The 2026's dynamic is going to be a massive shift from how my years usually go. 
 
 On the other hand, my proposed thesis, together with my thesis partner, can't share much information about it for now. But in a nutshell, we will have to design and implement a custom processor for a microcontroller. And just by reading our manuscript, it is apparent that we're gonna spend a lot of time debugging and figuring out whether the physics or the code is the issue.
 
-Despite that, I still broadly consider myself optimistic. At the end of 2026, I may write a follow-up blog how things turned out.
+Despite that, I still broadly consider myself optimistic. At the end of 2026, I may write a follow-up blog on how things turned out.

@@ -22,7 +22,7 @@ From time to time, I will be posting something new on this blog.
 
 ## Language and AI Use
 English will be the primary language here.
-Although from time to time you might encounter Tagalog or [Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) terminologies in my posts, rest assured I will provide my own translation with the given context.
+Although you might occasionally encounter Tagalog or [Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) terminologies in my posts, rest assured I will provide my own translation with the given context.
 Non-English terms will appear in *italics*.
 
 I will refrain from using LLMs to write every idea down or convey what I want to say.
