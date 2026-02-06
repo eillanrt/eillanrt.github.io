@@ -75,8 +75,6 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/eillanrt
-    - name: twitter
-      url: https://twitter.com/eillanrt
     - name: linkedin
       url: https://linkedin.com/in/argtan
     - name: email
