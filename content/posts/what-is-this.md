@@ -80,7 +80,7 @@ Also, it is the static nature of Static Site Generators, as the name suggests.
 Though comment sections can be added, it would be an embedded plugin via a third-party.
 
 Feel free to send me a message on my email though *(just not spam, ofc. Please)*.
-Just note that I have a few rules in the online space of communication.
+Just note that I have a few boundaries in the online space of communication.
 
 1. **Just Ask:** No need to ask for permission to ask—just ask your question.
 2. **Message First:** Refrain from sending just "hello" or empty greetings.
