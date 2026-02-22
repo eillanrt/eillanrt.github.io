@@ -60,13 +60,14 @@ I make **no** promises that I will:
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
 ## License and Copyright
-The blog's code and content are licensed separately.
+I write this blog for myself and I am happy if others find value in it.
+But I ask that you respect my work.
 
-**Source Code**: Source code used to build and display this blog is licensed under the [MIT License](https://opensource.org/license/mit).
+- Unless otherwise stated, original content in this blog (e.g., text, images, and audio) is All Rights Reserved.
+- Third party content will always be credited and used with permission or under its own license.
+- Source code used to build and display this blog is licensed under the MIT License. Feel free to use it!
 
-**Content**: Unless otherwise stated, original content in this blog (e.g., text, images, and audio) is **All Rights Reserved**.
-
-**Attribution**: Any third-party content that is not original to this blog is used with permission or under its respective license, and will be given proper credit within the post.
+I am honestly open on sharing my works most of the time. If in case, just send me a message—I usually don't mind. Just be kind and give credit where it's due <3.
 
 # Feedback and Suggestions
 ## Commenting
@@ -82,7 +83,7 @@ Feel free to send me a message on my email though *(just not spam, ofc. Please)*
 Just note that I have a few rules in the online space of communication.
 
 1. **Just Ask:** No need to ask for permission to ask—just ask your question.
-2. **Message First:** Refrain from sending just "hello" or empty greetings; Always include your full message.
+2. **Message First:** Refrain from sending just "hello" or empty greetings.
 3. **Be Civil:** Let’s keep it civil and respectful.
 
 That said, do not hesitate to send me a message if you have thoughts on any of my posts that you'd like to share. Or maybe you just want to invite me to a fruitful conversation.
