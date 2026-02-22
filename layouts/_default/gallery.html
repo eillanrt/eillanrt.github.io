@@ -1,0 +1,161 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+<div class="post-content">
+  {{ .Content }} 
+
+  <div id="gallery-grid" class="gallery-grid"></div>
+  <div id="scroll-sentinel" style="height: 20px;"></div>
+</div>
+
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()" />
+  <div id="lightbox-caption" class="lightbox-caption"></div>
+</div>
+
+<style>
+  /* Grid Styles */
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 2rem;
+  }
+  
+  .gallery-item {
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #1e1e1e;
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+  }
+  
+  .gallery-item:hover img {
+    transform: scale(1.05);
+  }
+
+  @keyframes fadeIn {
+    to { opacity: 1; }
+  }
+
+  /* Lightbox Styles */
+  .lightbox {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    cursor: zoom-out;
+  }
+  
+  .lightbox img {
+    max-width: 90%;
+    max-height: 75vh;
+    object-fit: contain;
+    border-radius: 8px;
+    cursor: default;
+  }
+  
+  .lightbox-caption {
+    color: #fff;
+    margin-top: 15px;
+    font-size: 1.1rem;
+    text-align: center;
+    max-width: 800px;
+  }
+</style>
+
+<script>
+  // Ignore the VS Code red squiggles here. Hugo will process this perfectly.
+  const galleryData = {{ if .Params.r2_images }}{{ .Params.r2_images | jsonify | safeJS }}{{ else }}[]{{ end }};
+  
+  let renderedCount = 0;
+  const batchSize = 12; 
+  
+  const grid = document.getElementById('gallery-grid');
+  const sentinel = document.getElementById('scroll-sentinel');
+
+  // --- BATCH LOADING LOGIC ---
+  function renderBatch() {
+    if (!galleryData || galleryData.length === 0) return;
+    
+    const end = Math.min(renderedCount + batchSize, galleryData.length);
+    
+    for (let i = renderedCount; i < end; i++) {
+      const imgData = galleryData[i];
+      
+      const div = document.createElement('div');
+      div.className = 'gallery-item';
+      
+      div.onclick = () => openLightbox(imgData.src, imgData.alt); 
+      
+      const img = document.createElement('img');
+      img.src = imgData.src;
+      img.alt = imgData.alt || ''; 
+      img.loading = 'lazy';
+      img.decoding = 'async';
+      
+      div.appendChild(img);
+      grid.appendChild(div);
+    }
+    
+    renderedCount = end;
+    
+    if (renderedCount >= galleryData.length) {
+      observer.disconnect();
+    }
+  }
+
+  const observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting) {
+      renderBatch();
+    }
+  });
+  observer.observe(sentinel);
+
+
+  // --- LIGHTBOX LOGIC ---
+  function openLightbox(src, alt) {
+    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox-caption').innerText = alt || '';
+    
+    document.getElementById('lightbox').style.display = 'flex';
+    document.documentElement.style.overflow = 'hidden';
+    document.body.style.overflow = 'hidden'; 
+  }
+
+  function closeLightbox() {
+    document.getElementById('lightbox').style.display = 'none';
+    document.documentElement.style.overflow = '';
+    document.body.style.overflow = ''; 
+  }
+
+  // Escape key to close
+  document.addEventListener('keydown', function(event) {
+    const lightbox = document.getElementById('lightbox');
+    if (lightbox.style.display === 'flex' && event.key === "Escape") {
+      closeLightbox();
+    }
+  });
+
+  // Mobile scroll lock
+  document.getElementById('lightbox').addEventListener('touchmove', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+{{ end }}
