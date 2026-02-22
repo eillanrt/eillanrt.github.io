@@ -49,7 +49,7 @@ Even though this blog is not necessarily for virality and content creation in a 
 
 # Content
 ## Disclaimer and Discretion
-***It is our responsibility to be cautious on what we read on the internet.***
+It is our responsibility to be cautious on what we read on the internet.
 
 I make **no** promises that I will:
 - Always avoid vulgar language.
@@ -80,11 +80,11 @@ Also, it is the static nature of Static Site Generators, as the name suggests.
 Though comment sections can be added, it would be an embedded plugin via a third-party.
 
 Feel free to send me a message on my email though *(just not spam, ofc. Please)*.
-Just note that I have a few rules in the online space of communication.
+Just note that I have a few boundaries in the online space of communication.
 
-1. **Just Ask:** No need to ask for permission to ask—just ask your question.
-2. **Message First:** Refrain from sending just "hello" or empty greetings.
-3. **Be Civil:** Let’s keep it civil and respectful.
+- **Just Ask:** Just ask directly if you need to ask about something. No need to ask for permission.
+- **Full Message:** Refrain from sending just "hello" or empty greetings. Include your message.
+- **Be Civil:** Let’s keep it civil and respectful.
 
 That said, do not hesitate to send me a message if you have thoughts on any of my posts that you'd like to share. Or maybe you just want to invite me to a fruitful conversation.
 
