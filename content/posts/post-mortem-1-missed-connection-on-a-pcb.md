@@ -11,7 +11,7 @@ tags:
 categories:
   - Engineering and Technology
 series:
-  - Post Mortem
+  - Post-Mortem
 slug: post-mortem-1-missed-connection-on-a-pcb
 ---
 
