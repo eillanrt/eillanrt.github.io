@@ -1,5 +1,5 @@
 # About
-Read about this blog [here](https://eillanrt.github.io/posts/what-is-this).
+Read about this blog [here](https://blog.eillanrt.com/posts/what-is-this).
 
 # Open Source
 - Source Code is licensed under the MIT License. 
