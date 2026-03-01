@@ -2,7 +2,7 @@
 author:
   - Allan Robert Tan
 title: "Post-Mortem #1: Missed Connection on a PCB"
-description: "Incident Report on my mistake designing a PCB for my Computer Architecture class"
+description: "Incident Report on my mistake designing a PCB for my Computer Architecture class."
 summary: "Incident report on a PCB design."
 date: 2026-02-23T03:02:06+08:00
 draft: false
