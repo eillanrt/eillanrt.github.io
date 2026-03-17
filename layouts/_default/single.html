@@ -50,6 +50,13 @@
       </i>
     </p>
   </div>
+  <div class="post-edit-history">
+    <p>
+      <i>
+         <a href="https://github.com/eillanrt/eillanrt.github.io/commits/main/content/posts/{{ .File.BaseFileName }}.md">Edit history</a>
+      </i>
+    </p>
+  </div>
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">

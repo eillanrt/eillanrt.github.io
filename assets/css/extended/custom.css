@@ -22,8 +22,12 @@
     border-top: solid 2px #eee;
 }
 
-.post-reply-email a {
+.post-reply-email a, .post-edit-history a {
     text-decoration: underline;
+}
+
+.post-edit-history {
+    padding-top: 16px;
 }
 
 /* Arrow icons next to external links*/
