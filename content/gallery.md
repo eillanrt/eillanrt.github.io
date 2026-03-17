@@ -4,6 +4,8 @@ layout: "gallery"
 url: "/gallery/"
 summary: gallery
 r2_images:
+  - src: "https://cdn.eillanrt.com/gallery/sleepy_cat_in_a_university_canteen.jpg"
+    alt: "Drowsy cat in the University Cafeteria"
   - src: "https://cdn.eillanrt.com/gallery/baywalk_bcd_afternoon.jpg"
     alt: "Afternoon view of the sea at Baywalk Bacolod"
   - src: "https://cdn.eillanrt.com/gallery/ilaya_resort.jpg"
