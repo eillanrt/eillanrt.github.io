@@ -24,6 +24,11 @@ These post-mortems are not my typical posts but rather a series of my incident r
 I made a careless mistake missing a connection on my EDA design. We were tasked to design and fabricate a custom [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board) as a development board for our future FPGA design tasks in our Computer Architecture class. We utilized [EasyEDA](https://easyeda.com/) to create the schematic diagram and design the PCB.
 ![An LED with a resistor Diagram. LED's cathode is not connected to the GND. The output signal is also not connected to the LED's current-limiting resistor.](https://cdn.eillanrt.com/projects/cao_pcb_led13_err.jpg)
 As seen above, the LED's cathode (the negative side) is not properly attached to the GND. Its current-limiting resistor is also not properly connected to `O13`, a signal output from the FPGA. The `LED13` and `R29` got isolated with no connection from the power source and the GND. I did not realize it until I had to use a multimeter to check each of the LED's connection while soldering. There were 16 LEDs that should share the same common GND. Fortunately enough, only this one specific LED had this issue.
+
+{{< callout type="info" >}}
+Yeah I didn't know about Design Rule Check (DRC) before this.
+{{< /callout >}}
+
 # Probable Cause
 I must have missed it when I was moving components on the shematic diagram to organize them. We were required to use [net ports](https://prodocs.easyeda.com/en/schematic/place-net-port/) instead of wires to connect the pins of the components, making it easier to assign connections. However, it might have made me more complacent to depend on the software. Albeit I double-checked the other flags on the other pins, this one was inconspicuous. I was also the one who managed the logistics for ordering the fabricated PCBs for the group to save some money. While helpful, it might have affected my focus.
 # Mitigation
