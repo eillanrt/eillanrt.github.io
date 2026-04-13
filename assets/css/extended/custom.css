@@ -20,10 +20,20 @@
     margin-top: 20px;
     padding-top: 20px;
     border-top: solid 2px #eee;
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 1rem;
 }
 
 .post-footer-links a {
     text-decoration: underline;
+}
+
+.post-footer-links li + li::before {
+    content: "·";
+    margin-right: 1rem;
+    color: var(--secondary);
 }
 
 /* Arrow icons next to external links*/
