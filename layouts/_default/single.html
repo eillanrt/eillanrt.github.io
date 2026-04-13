@@ -42,8 +42,8 @@
   </div>
   {{- end }}
   <ul class="post-footer-links">
-    <li><a href="mailto:nattrebornalla@gmail.com?subject=Re:%20{{ .Title | urlquery }}&body=Hi,%0A%0AI%20read%20your%20post%20'{{ .Title | urlquery }}'%20and%20wanted%20to%20say..." class="post-basic-link">Reply via email</a></li>
-    <li><a href="https://github.com/eillanrt/eillanrt.github.io/commits/main/content/{{ .File.Path | replace "\\" "/" }}" class="post-basic-link">Edit history</a></li>
+    <li><a href="mailto:nattrebornalla@gmail.com?subject=Re:%20{{ .Title }}&body=Hi,%0A%0AI%20read%20your%20post%20'{{ .Title }}'%20and%20wanted%20to%20say...">Reply via email</a></li>
+    <li><a href="https://github.com/eillanrt/eillanrt.github.io/commits/main/content/posts/{{ .File.BaseFileName }}.md" class="post-basic-link">Edit history</a></li>
   </ul>
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
