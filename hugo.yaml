@@ -55,6 +55,7 @@ params:
   ShowRssButtonInSectionTermList: true
   hideMenuOnSingle: false
   disableScrollToTop: false
+  hideAuthor: true
   ShowToc: true
   TocOpen: true
   images: ["images/blog-cover.jpg"]
