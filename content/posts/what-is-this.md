@@ -88,7 +88,6 @@ Just note that I have a few boundaries in the online space of communication.
 That said, do not hesitate to send me a message if you have thoughts on any of my posts that you'd like to share. Or maybe you just want to invite me to a fruitful conversation.
 
 That’s a wrap. I may regularly update this post to accommodate and address concerns to this blog.
-This post is also available at the `/about` page of this blog for future reference.
 
 ---
 # Quick Links
