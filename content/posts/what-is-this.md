@@ -91,6 +91,7 @@ That’s a wrap. I may regularly update this post to accommodate and address con
 This post is also available at the `/about` page of this blog for future reference.
 
 ---
-# Footnotes
-- [Don't ask to ask, just ask](https://dontasktoask.com/)
-- [Nohello](https://nohello.net/en/)
+# Quick Links
+- [Tags](https://blog.eillanrt.com/tags)
+- [Categories](https://blog.eillanrt.com/categories)
+- [Series](https://blog.eillanrt.com/series)
