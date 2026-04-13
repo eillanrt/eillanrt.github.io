@@ -9,7 +9,6 @@ tags: ["reflection", "thoughts"]
 categories: ["personal"]
 aliases: ["/about"]
 slug: 'what-is-this'
-weight: 1
 ---
 
 # Hey, I am starting to write!

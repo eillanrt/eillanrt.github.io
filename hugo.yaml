@@ -15,21 +15,21 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 20
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 20
     - identifier: gallery
       name: Gallery
       url: /gallery/
-      weight: 40
+      weight: 30
     - identifier: search
       name: Search
       url: /search/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
       weight: 50
 taxonomies:
   category: categories
