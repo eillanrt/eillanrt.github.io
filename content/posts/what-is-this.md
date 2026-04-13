@@ -93,6 +93,7 @@ This post is also available at the `/about` page of this blog for future referen
 ---
 # Quick Links
 - [Posts](https://blog.eillanrt.com/posts)
+- [Archives](https://blog.eillanrt.com/archives)
 - [Tags](https://blog.eillanrt.com/tags)
 - [Categories](https://blog.eillanrt.com/categories)
 - [Series](https://blog.eillanrt.com/series)
