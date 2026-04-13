@@ -1,6 +1,6 @@
 ---
 author: ["Allan Robert Tan"]
-title: '📌 What is this?'
+title: 'What is this?'
 description: "A short introduction on why I started this blog and what to anticipate."
 summary: "Here's a quick read for anyone who just landed on the blog!"
 date: 2025-11-07T20:09:51+08:00
@@ -9,6 +9,7 @@ tags: ["reflection", "thoughts"]
 categories: ["personal"]
 aliases: ["/about"]
 slug: 'what-is-this'
+searchHidden: true
 ---
 
 # Hey, I am starting to write!
