@@ -1,29 +1,33 @@
 {{- $scratch := newScratch }}
 
-{{ if and (not .Lastmod.IsZero) (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
-    {{ $lastModFormatted := (.Lastmod | time.Format (default ":date_long" site.Params.DateFormat)) }}
-    {{ $scratch.Add "meta" (slice (printf "<span>Updated %s</span>" $lastModFormatted)) }}
-{{ else }}
-    {{ if not .Date.IsZero }}
-        {{ $dateFormatted := (.Date | time.Format (default ":date_long" site.Params.DateFormat)) }}
-        {{ $scratch.Add "meta" (slice (printf "<span>%s</span>" $dateFormatted)) }}
-    {{ end }}
-{{ end }}
+{{- $calIcon := `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:-2px"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>` }}
 
-{{- if (.Param "ShowReadingTime") -}}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)))) }}
+{{- $editIcon := `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:-2px"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>` }}
+
+{{- if not .Date.IsZero }}
+    {{- $dateFormatted := (.Date | time.Format (default ":date_long" site.Params.DateFormat)) }}
+    {{- $scratch.Add "meta" (slice (printf `<span title="Published">%s&nbsp;%s</span>` $calIcon $dateFormatted)) }}
 {{- end }}
 
-{{- if (.Param "ShowWordCount") -}}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
+{{- if and (not .Lastmod.IsZero) (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
+    {{- $lastModFormatted := (.Lastmod | time.Format (default ":date_long" site.Params.DateFormat)) }}
+    {{- $scratch.Add "meta" (slice (printf `<span title="Last updated">%s&nbsp;%s</span>` $editIcon $lastModFormatted)) }}
 {{- end }}
 
-{{- if not (.Param "hideAuthor") -}}
-{{- with (partial "author.html" .) }}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+{{- if (.Param "ShowReadingTime") }}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)))) }}
 {{- end }}
+
+{{- if (.Param "ShowWordCount") }}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") }}
+    {{- with (partial "author.html" .) }}
+        {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+    {{- end }}
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
-{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+    {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}
