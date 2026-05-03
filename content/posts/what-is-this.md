@@ -38,15 +38,6 @@ In formal or academic registers, of course it is a different story.
 
 From time to time, I might update some posts to amend informational or grammatical errors.
 
-## Subscribing
-My blog is RSS-enabled. You can subscribe to it using your preferred RSS reader by adding `https://blog.eillanrt.com/index.xml` to your subscription list.
-Thanks btw! For starters, try using a service like [Feedly](https://feedly.com).
-
-[RSS](https://en.wikipedia.org/wiki/RSS) is one of the oldest standards on the web.
-You can use RSS readers to start subscribing to RSS feeds, such as this blog.
-
-Even though this blog is not necessarily for virality and content creation in a traditional sense, having this blog RSS-enabled makes readers have a way to subscribe.
-
 # Content
 ## Disclaimer and Discretion
 It is our responsibility to be cautious on what we read on the internet.
