@@ -13,7 +13,7 @@ categories:
   - personal
 series:
   - Cortex Chronicles
-slug: cortex-chronicles-1-breadboarding-gallery-pcb
+slug: 1-breadboarding-gallery-pcb
 ---
 
 {{< callout type="info" title="Cortex Chronicles Series" >}}
