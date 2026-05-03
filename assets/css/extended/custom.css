@@ -36,6 +36,10 @@
     color: var(--secondary);
 }
 
+figcaption {
+    text-align: center;
+}
+
 /* Arrow icons next to external links*/
 
 .post-content .post-basic-link[href^="http"]::after, .post-footer-links .post-basic-link[href^="http"]::after {
