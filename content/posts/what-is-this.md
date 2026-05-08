@@ -70,7 +70,7 @@ This is by design. I am staying away from the engagement game as much as possibl
 Also, it is the static nature of Static Site Generators, as the name suggests.
 Though comment sections can be added, it would be an embedded plugin via a third-party.
 
-Feel free to send me a message on my email though *(just not spam, ofc. Please)*.
+Feel free to send me a message though *(just not spam, ofc. Please)*.
 Just note that I have a few boundaries in the online space of communication.
 
 - **Just Ask:** Just ask directly if you need to ask about something. No need to ask for permission.
