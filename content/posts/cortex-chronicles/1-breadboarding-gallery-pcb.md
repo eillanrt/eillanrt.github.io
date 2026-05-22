@@ -33,7 +33,7 @@ The problems they gave were not as difficult as expected as the[ truth tables](h
 
 The egg noodle was delicious and for me, worth the price for its portion size. It costs around 150-250 pesos depending on the variant. I chose the beef one. I was not even able to finish the beef as the portions were huge and I was not hungry enough to be prepared for it. And hey, having the competition and noodles treat is not a bad way to celebrate my `age++` day.
 
-I recommend visiting [Commis](https://maps.app.goo.gl/efojG4cjYEFH4eyR8) if you're around Bacolod City. For the curious, I looked up their menu page for you. [Here you go](https://mastudios.my.canva.site/revised-commisandco-2025).
+I recommend visiting [Commis](https://maps.app.goo.gl/efojG4cjYEFH4eyR8) if you're around Bacolod City. For the curious, I looked up their menu page for you. ~~[Here you go](https://mastudios.my.canva.site/revised-commisandco-2025)~~.
 
 {{< callout type="info" >}}
 I was not paid to promote anything btw.
