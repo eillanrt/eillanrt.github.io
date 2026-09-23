@@ -36,6 +36,8 @@ Let’s do our best not to be pedantic about it—embrace mistakes.
 It is what makes us humans after all.
 In formal or academic registers, of course it is a different story.
 
+I use generative AI to generate some of the custom code for this blog's formatting and design (HTML, CSS, & JS). Honestly, I am not really a front-end web developer guy. I merely use HTML, CSS, & JavaScript as tools to document or share presentable hypertexts. Kind of like Google Docs or MS word but for the web. So I would rather use AI to automate the boilerplate design code so I can focus more on the content.
+
 From time to time, I might update some posts to amend informational or grammatical errors.
 
 # Content
