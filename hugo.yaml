@@ -1,6 +1,6 @@
 baseURL: https://blog.eillanrt.com/
 languageCode: en-us
-title: Allan Robert Tan - Notebook
+title: Allan Robert Tan - Notes
 theme: PaperMod
 enableGitInfo: true
 enableRobotsTXT: true
@@ -59,7 +59,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   label:
-    text: Notebook
+    text: Notes
     icon: favicon/apple-touch-icon.png
     iconHeight: 35
   homeInfoParams:
