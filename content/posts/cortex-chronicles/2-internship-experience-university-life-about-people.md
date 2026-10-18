@@ -123,12 +123,3 @@ Okay, maybe that sounds a bit dramatic, partly it was just main character energy
 I remember during the English impromptu, while the contestant before me was speaking and I was thinking about the structure of my own answer as I read my prompt. I genuinely almost blanked out while thinking. Like I had the thought of just running away before it was my turn. The prompt that was given to me goes something like what can students do to fight climate change. I did not do well in the English impromptu, I admit. For the Filipino, I did a little bit better—at least, but my time ran out. The prompt for the Filipino went like how should the Philippines handle the tension in West Philippine Sea.
 
 Frankly speaking though, partly I also have shortcomings to myself. I was not able to prepare and practice enough the days before the said event. The main reason I agreed really is I wanted to hone my public speaking skills. I had public speaking experience before but it was not impromptu nor a competition. I wanted to stress-test this aspect of me.
-
-# Backlogs - talking about people
-On my [Cortex Chronicles #1](https://blog.eillanrt.com/posts/cortex-chronicles/1-breadboarding-gallery-pcb/), I said I have been asking or pondering something about being human, "the humanity side" as I have put it. I have backlogs of notions that I would like to write about that are not about technicalities or related to engineering but rather discusses the messy and unpredictable nature of humans.
-
-Just like my post [AI Detection is a Dead-End | A Pedagogical Pivot](https://blog.eillanrt.com/posts/ai-detection-is-a-dead-end-a-pedagogical-pivot/) last January but talk less about technology and focuses on human connections—base on everything I have learned through accumulations of experience, reading, listening to other peoples' stories, and my own contemplation.
-
-This is not spiritual or philosophical as it may sound albeit vague. Just a fancy way of saying I want to give my two cents about people of the society even when no one asks. Being cringe, authentic, unsure, uncertain, etc...
-
-It is also my coping mechanism as I owe a lot to this blog lol. I pay ~700 pesos for this domain yearly, barely posting anything.
