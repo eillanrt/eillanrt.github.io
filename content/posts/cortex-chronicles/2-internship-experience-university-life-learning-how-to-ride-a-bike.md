@@ -1,7 +1,7 @@
 ---
 author:
   - Allan Robert Tan
-title: "Cortex Chronicles #2: Internship Experience, University Life, About People"
+title: "Cortex Chronicles #2: Internship Experience, University Life, Learning how to ride a bike"
 description: "Just a little bit of story: where have I been, present struggles, and some thoughts."
 summary: I talk about my internship, living alone for the first time, learning to ride a bike, current hardships as a senior student, and backlogs of thoughts of people.
 date: 2026-10-15T00:11:01+08:00
@@ -13,7 +13,7 @@ tags:
   - thesis
 categories:
   - personal
-slug: 2-internship-experience-university-life-about-people
+slug: 2-internship-experience-university-life-learning-how-to-ride-a-bike
 series:
   - Cortex Chronicles
 ---
