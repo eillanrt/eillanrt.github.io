@@ -73,13 +73,7 @@ Also, it is the static nature of Static Site Generators, as the name suggests.
 Though comment sections can be added, it would be an embedded plugin via a third-party.
 
 Feel free to send me a message though *(just not spam, ofc. Please)*.
-Just note that I have a few boundaries in the online space of communication.
-
-- **Just Ask:** Just ask directly if you need to ask about something. No need to ask for permission.
-- **Full Message:** Refrain from sending just "hello" or empty greetings. Include your message.
-- **Be Civil:** Let’s keep it civil and respectful.
-
-That said, do not hesitate to send me a message if you have thoughts on any of my posts that you'd like to share. Or maybe you just want to invite me to a fruitful conversation.
+Don't hesitate to send me a message if you have thoughts on any of my posts that you'd like to share. Or maybe you just want to invite me to a fruitful conversation.
 
 That’s a wrap. I may regularly update this post to accommodate and address concerns to this blog.
 
