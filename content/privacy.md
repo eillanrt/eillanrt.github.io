@@ -67,7 +67,7 @@ You may also choose not to interact with third-party embedded content. Please no
 
 # Contact
 
-If you have questions, concerns, or requests regarding this Privacy Policy, you may contact me via email at **nattrebornalla@gmail.com**. Any information provided in direct email communications will be used exclusively to address your inquiry and will not be added to marketing lists.
+If you have questions, concerns, or requests regarding this Privacy Policy, you may contact me via email at [nattrebornalla@gmail.com](mailto:nattrebornalla@gmail.com). Any information provided in direct email communications will be used exclusively to address your inquiry and will not be added to marketing lists.
 
 # Changes to This Policy
 
