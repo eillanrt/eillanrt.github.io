@@ -52,6 +52,11 @@ I make **no** promises that I will:
 
 I will add a Reader's Discretion at the top of a post if I find it necessary.
 
+My views are my own and don’t reflect my employer or any organization I may be affiliated with. This is for personal/educational sharing, not official advice. I try to be accurate, but I don’t guarantee it’s complete or error-free.
+
+## Privacy Policy
+You may refer to my [Privacy Policy](/privacy) for more information about privacy practices & how your data is being handled.
+
 ## License and Copyright
 I write this blog for myself and I am happy if others find value in it.
 But I ask that you respect my work.
