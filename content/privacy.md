@@ -31,15 +31,15 @@ For more information, please refer to:
 - [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)
 
-# Third-Party Embedded Content and External Links
+# Third-Party Embedded Content, External CDNs, and Links
 
-Some pages may contain content provided by third-party services, such as YouTube videos, Google Maps, images, or other embedded media.
+Some pages on this website may contain embedded content provided by third-party services—including, but not limited to, YouTube videos, Google Maps, images, audio players, or interactive widgets.
 
-When you view or interact with embedded content, the third-party provider may receive technical information about your visit, use cookies or similar technologies, and process information according to its own privacy policy. Depending on the service, this may include information about your browser, device, IP address, and interactions with the embedded content.
+When you view or interact with embedded content, or load pages containing third-party integrations, these providers may receive standard technical information about your visit (such as your IP address, browser type, device information, and request timestamps) and may use cookies or similar tracking technologies according to their own privacy policies. Where available, privacy-enhanced modes or privacy-focused alternatives are used to minimize data collection.
 
-Where available, privacy-enhanced options may be used to reduce unnecessary data collection. However, I cannot guarantee that third-party embedded content will not process information about your visit.
+This website may also load static stylesheets, scripts, or font resources from external Content Delivery Networks (CDNs), such as **jsDelivr** (used for rendering mathematical notation via KaTeX). When your browser requests these resources, external CDNs automatically process standard technical connection data to serve the files. For more information, please refer to the [jsDelivr Privacy Policy](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net).
 
-This blog may also contain links to external websites, software repositories, or external resources. I am not responsible for the content, security, or privacy practices of third-party platforms reached through outbound links.
+This blog may contain links to external websites, software repositories, or third-party resources. I am not responsible for the privacy practices, security, or content of external sites reached through outbound links.
 
 # Analytics
 
