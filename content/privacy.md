@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 url: "/privacy/"
-summary: privacy
+summary: "Privacy Policy of blog.eillanrt.com "
 date: 2026-11-02
 searchHidden: true
 showToc: false

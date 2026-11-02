@@ -2,7 +2,7 @@
 title: "Gallery"
 layout: "gallery"
 url: "/gallery/"
-summary: gallery
+summary: "Allan Robert Tan's gallery"
 r2_images:
   - src: "https://cdn.eillanrt.com/gallery/baywalk_bcd_afternoon.jpg"
     alt: "Afternoon view of the sea at Baywalk Bacolod"
