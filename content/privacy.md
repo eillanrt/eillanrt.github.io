@@ -37,7 +37,7 @@ Some pages on this website may contain embedded content provided by third-party 
 
 When you view or interact with embedded content, or load pages containing third-party integrations, these providers may receive standard technical information about your visit (such as your IP address, browser type, device information, and request timestamps) and may use cookies or similar tracking technologies according to their own privacy policies. Where available, privacy-enhanced modes or privacy-focused alternatives are used to minimize data collection.
 
-This website may also load static stylesheets, scripts, or font resources from external Content Delivery Networks (CDNs), including but not limited to **jsDelivr**. When your browser requests these resources, external CDNs automatically process standard technical connection data (such as your IP address and user-agent string) to serve the files. For more information, please refer to the [jsDelivr Privacy Policy](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net).
+This website may also load static stylesheets, scripts, or font resources from external Content Delivery Networks (CDNs), including but not limited to **jsDelivr**. When your browser requests these resources, external CDNs automatically process standard technical connection data (such as your IP address and user-agent string) to serve the files. For details on how your data is handled by these providers, please consult their respective privacy policies, such as the jsDelivr Privacy Policy.
 
 This blog may contain links to external websites, software repositories, or third-party resources. I am not responsible for the privacy practices, security, or content of external sites reached through outbound links.
 
